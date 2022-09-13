@@ -1,0 +1,72 @@
+{
+  "id_nortag": "83769075",
+  "index_page": 0,
+  "name_nortag": "Wound",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "1269617022",
+  "hc_lt_data_img": "1166941195",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-1164328411",
+  "lt_alb": [
+    {
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
+    },
+    {
+      "id_alb": "-303570153",
+      "name_alb": "My Hero Academia",
+      "total_img": 407
+    },
+    {
+      "id_alb": "57904715",
+      "name_alb": "Tokyo Ghoul",
+      "total_img": 279
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "996743698",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MyHeroAcademia_815297_crop2608_-1315809670",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMF4nZi6fMmCrtsQ9pfY4A0AH9/91CBOlL5H+o28eKhpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMF4nZi6fMmCrtsQ9pfY4AQpWizKrlrpsPwVkgL7//zZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-303570153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "583030106",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "1614125515",
+      "id_img": "TokyoGhoul_596610_crop2608_-1275047371",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicA2Jbfn2Ujwu2GQSfe5+rsP3/NPYiipdYE1ITlm/5EcZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicA2Jbfn2Ujwu2GQSfe5+rscKXhQolChw9GIErkFpU8OJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "57904715",
+        "66988"
+      ],
+      "lt_id_sptag": [
+        "-1880367671",
+        "-1436512555"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1880367671",
+      "key_sptag": "isBoyDarkBlack",
+      "name_sptag": "Boy Dark Black",
+      "total": 573
+    },
+    {
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
+    }
+  ]
+}

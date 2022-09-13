@@ -1,0 +1,90 @@
+{
+  "id_nortag": "978444791",
+  "index_page": 0,
+  "name_nortag": "Umiko Ahagon",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-628544048",
+  "hc_lt_data_img": "-2138989357",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "1217700225",
+  "lt_alb": [
+    {
+      "id_alb": "1382444722",
+      "name_alb": "New Game",
+      "total_img": 123
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-603540903",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-1679427220",
+      "id_img": "NewGame_736197_crop2608_1045873214",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJdIfBw5y7lR41GtZ9MUlLAclQ5cFWfxRMH37LVHQQrpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJdIfBw5y7lR41GtZ9MUlLNovQ9HQQS+0F3yLYDwUo65Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1382444722",
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "154003721",
+        "-326078627",
+        "-369402967",
+        "1600730941",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-369402967",
+      "key_sptag": "isGirlLoli",
+      "name_sptag": "Girls Loli",
+      "total": 2098
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    }
+  ]
+}

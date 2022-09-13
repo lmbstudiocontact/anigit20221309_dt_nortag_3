@@ -1,0 +1,128 @@
+{
+  "id_nortag": "407258586",
+  "index_page": 0,
+  "name_nortag": "Tenjo Rio",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-947028514",
+  "hc_lt_data_img": "1295585771",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-1700285044",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "-823507690",
+      "name_alb": "Iro ni Ide ni keri Waga Koi wa",
+      "total_img": 5
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "2036178247",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "791446152",
+      "id_img": "IroniIdenikeriWagaKoiwa_847655_crop2608_250336022",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifndK1jTjxhmqqsntOE/maDYq/1jGJfcbonScFTi2QUqpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifndK1jTjxhmqqsntOE/maDAft2TuVVESr0MQZAuz6W/5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-823507690"
+      ],
+      "lt_id_sptag": [
+        "154003721",
+        "-326078627",
+        "1439812287",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "2036178247",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-1002227953",
+      "id_img": "IroniIdenikeriWagaKoiwa_847663_crop2608_1019665523",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpJqIhGyolqal2kSsCKZunkxbrTihSX67YtpjkGZmoo5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpJqIhGyolqal2kSsCKZunodKCOQ4qC7G8GktautgTdZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-823507690"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "-1811357781",
+        "154003721",
+        "-326078627",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "2036178247",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-1076920304",
+      "id_img": "IroniIdenikeriWagaKoiwa_847663_crop2608_334710534",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqoDWJz0bBrufWwgz3SwS7f29MBpZ5Gr55+KNVW2RgIpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqoDWJz0bBrufWwgz3SwS7WN/NnlAu9jl7wE1YxAmQu5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-823507690"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "154003721",
+        "-326078627",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    }
+  ]
+}

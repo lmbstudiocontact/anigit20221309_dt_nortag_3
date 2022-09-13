@@ -1,0 +1,49 @@
+{
+  "id_nortag": "-1307170303",
+  "index_page": 0,
+  "name_nortag": "Zeldris The Seven Deadly Sins",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-1985165561",
+  "hc_lt_data_img": "2108336890",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "",
+  "lt_alb": [
+    {
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
+    },
+    {
+      "id_alb": "-481602904",
+      "name_alb": "The Seven Deadly Sins",
+      "total_img": 78
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-1505905715",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "TheSevenDeadlySins_933801_crop2608_172274281",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietIMQ2Y/7CEPktpxv8ioTz6cstStGaftNT2go9gFM7Z5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietIMQ2Y/7CEPktpxv8ioTzADxer9kNkPU831/C+CXXw5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-481602904"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1505905715",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "TheSevenDeadlySins_946104_crop2608_-23992509",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyeiTd7yEm8ooRE/qFr77nEhmNxCFxEkKnHyICQ3Y+tZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyeiTd7yEm8ooRE/qFr77nZvRQnDrD1VqYJnL0T5A1XpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-481602904"
+      ]
+    }
+  ]
+}

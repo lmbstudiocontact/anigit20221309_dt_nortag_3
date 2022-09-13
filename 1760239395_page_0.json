@@ -1,0 +1,90 @@
+{
+  "id_nortag": "1760239395",
+  "index_page": 0,
+  "name_nortag": "Tohka Todo",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "438121445",
+  "hc_lt_data_img": "-1122450118",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "18679806",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "487720068",
+      "name_alb": "Chivalry of a Failed Knight",
+      "total_img": 11
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "2110100442",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "1546448942",
+      "id_img": "ChivalryofaFailedKnight_672149_crop2608_1869463334",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBRNu9i++JAGs3GtfgB1rPqKFMz57vvr/blShIsdgScpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBRNu9i++JAGs3GtfgB1rP+8ao+P+nlA6eal7kQvAHBpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "487720068"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "-1811357781",
+        "-369654561",
+        "-1436512555",
+        "1211227273",
+        "-326078627",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-369654561",
+      "key_sptag": "isGirlDarkAnime",
+      "name_sptag": "Girls Dark",
+      "total": 3468
+    },
+    {
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    }
+  ]
+}
