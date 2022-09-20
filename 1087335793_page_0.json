@@ -4,48 +4,91 @@
   "name_nortag": "Tenten Naruto",
   "total_img": 9,
   "total_page": 0,
-  "hc_lt_alb": "-1401069606",
-  "hc_lt_data_img": "864327660",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-45391336",
+  "hc_lt_alb": "-1059806392",
+  "hc_lt_data_img": "525292863",
+  "hc_lt_nortag": "-1758641332",
+  "hc_lt_sptag": "-653452938",
   "lt_alb": [
-    {
-      "id_alb": "-1968799663",
-      "name_alb": "Naruto",
-      "total_img": 478
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-1968799663",
+      "name_alb": "Naruto",
+      "total_img": 478
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-831277070",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Naruto_135637_crop2608_-1228412213",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMe9TC3fAkaiRXg/B7mgWbirFrcu1gtXhxnVI2ZBTAypVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMe9TC3fAkaiRXg/B7mgWbuYd9PDzUnZHpWQRYSQaYj5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1968799663"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-831277070",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1214137991",
       "hc_lt_id_sptag": "",
       "id_img": "Naruto_135637_crop2608_1149858874",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienEft/fs5Xod/Kq5APV+q9qW3P20ZePvQtLusA1e6jMpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienEft/fs5Xod/Kq5APV+q9abI30AusEBkSR/ngBQdmlJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1968799663"
+      ],
+      "list_id_nortag": [
+        "-573203980",
+        "-1185956769",
+        "-2006806885",
+        "612830294",
+        "-386600639",
+        "-455647535",
+        "1087335793",
+        "154658675",
+        "-1611763306"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-831277070",
+      "hc_lt_id_nortag": "-1746672728",
+      "hc_lt_id_sptag": "",
+      "id_img": "Naruto_602092_crop2608_337763537",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQ+g4aN0ZQLhqtOZJFko0TUheA8LfpNLnMQgk3BkaFA5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQ+g4aN0ZQLhqtOZJFko0TkRKb6jFn9jqXADSM79NKbJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1968799663"
+      ],
+      "list_id_nortag": [
+        "-573203980",
+        "-1185956769",
+        "-2006806885",
+        "-23468393",
+        "-285202530",
+        "-386600639",
+        "-455647535",
+        "880602626",
+        "-555801512",
+        "-1291301068",
+        "1087335793",
+        "154658675",
+        "-1611763306"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-831277070",
+      "hc_lt_id_nortag": "1204969646",
+      "hc_lt_id_sptag": "",
+      "id_img": "Naruto_715452_crop2608_-746341418",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidD1q2pTxnDEmAv26F+mDh4R0RQgKjrhOh16DOhq3bw/JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidD1q2pTxnDEmAv26F+mDh4W/dtSOG+9H+4VXLnxAIvDZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1968799663"
+      ],
+      "list_id_nortag": [
+        "-573203980",
+        "-455647535",
+        "880602626",
+        "1087335793"
       ]
     },
     {
       "hc_lt_id_alb": "-1226275427",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-7682407",
       "hc_lt_id_sptag": "471464567",
       "id_img": "Naruto_312597_crop2608_2139169983",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiielPLRNG/Nl1l6TCItCZPwKafkjzyK8Mx8GV267PToqUJVy4706IhQgSYlgwrgVRHU=",
@@ -53,6 +96,9 @@
       "lt_id_alb": [
         "68811063",
         "-1968799663"
+      ],
+      "list_id_nortag": [
+        "1087335793"
       ],
       "lt_id_sptag": [
         "-2139213873",
@@ -63,8 +109,56 @@
       ]
     },
     {
+      "hc_lt_id_alb": "-831277070",
+      "hc_lt_id_nortag": "-1214137991",
+      "hc_lt_id_sptag": "",
+      "id_img": "Naruto_135637_crop2608_-1228412213",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMe9TC3fAkaiRXg/B7mgWbirFrcu1gtXhxnVI2ZBTAypVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMe9TC3fAkaiRXg/B7mgWbuYd9PDzUnZHpWQRYSQaYj5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1968799663"
+      ],
+      "list_id_nortag": [
+        "-573203980",
+        "-1185956769",
+        "-2006806885",
+        "612830294",
+        "-386600639",
+        "-455647535",
+        "1087335793",
+        "154658675",
+        "-1611763306"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-831277070",
+      "hc_lt_id_nortag": "-1746672728",
+      "hc_lt_id_sptag": "",
+      "id_img": "Naruto_602092_crop2608_-473109151",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQ9t4/MncTBbzFLs6D886HTWwz3fj7arlc3COxNIGgTJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQ9t4/MncTBbzFLs6D886HC9gtQRAuR11jwi6weSFFk5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1968799663"
+      ],
+      "list_id_nortag": [
+        "-573203980",
+        "-1185956769",
+        "-2006806885",
+        "-23468393",
+        "-285202530",
+        "-386600639",
+        "-455647535",
+        "880602626",
+        "-555801512",
+        "-1291301068",
+        "1087335793",
+        "154658675",
+        "-1611763306"
+      ]
+    },
+    {
       "hc_lt_id_alb": "-1226275427",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-7682407",
       "hc_lt_id_sptag": "1084837923",
       "id_img": "Naruto_577370_crop2608_505751319",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienh7Bk3hEKKOk4oVDnLFXDJ7PYqrtTBFkKMocaMlUS55Vy4706IhQgSYlgwrgVRHU=",
@@ -72,6 +166,9 @@
       "lt_id_alb": [
         "68811063",
         "-1968799663"
+      ],
+      "list_id_nortag": [
+        "1087335793"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -83,67 +180,134 @@
     },
     {
       "hc_lt_id_alb": "-831277070",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Naruto_602092_crop2608_-473109151",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQ9t4/MncTBbzFLs6D886HTWwz3fj7arlc3COxNIGgTJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQ9t4/MncTBbzFLs6D886HC9gtQRAuR11jwi6weSFFk5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1968799663"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-831277070",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1746672728",
       "hc_lt_id_sptag": "",
       "id_img": "Naruto_602092_crop2608_204392164",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjqgk+52prTqpt+n/rXwtlDE1xpmcjzRgPPRtl0BwQ6pVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjqgk+52prTqpt+n/rXwtlT3w5/3FTSuW8ru8yJdxu1pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1968799663"
+      ],
+      "list_id_nortag": [
+        "-573203980",
+        "-1185956769",
+        "-2006806885",
+        "-23468393",
+        "-285202530",
+        "-386600639",
+        "-455647535",
+        "880602626",
+        "-555801512",
+        "-1291301068",
+        "1087335793",
+        "154658675",
+        "-1611763306"
       ]
     },
     {
       "hc_lt_id_alb": "-831277070",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Naruto_602092_crop2608_337763537",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQ+g4aN0ZQLhqtOZJFko0TUheA8LfpNLnMQgk3BkaFA5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQ+g4aN0ZQLhqtOZJFko0TkRKb6jFn9jqXADSM79NKbJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1968799663"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-831277070",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Naruto_715452_crop2608_-746341418",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidD1q2pTxnDEmAv26F+mDh4R0RQgKjrhOh16DOhq3bw/JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidD1q2pTxnDEmAv26F+mDh4W/dtSOG+9H+4VXLnxAIvDZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1968799663"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-831277070",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "123854338",
       "hc_lt_id_sptag": "",
       "id_img": "Naruto_772898_crop2608_1004522757",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiex3N7urFKraWC+Hk0QBMX8t+Refv+vUTIggEjXypy4h5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiex3N7urFKraWC+Hk0QBMX8EyBwIJlGH/y8bYTWiSCXGZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1968799663"
+      ],
+      "list_id_nortag": [
+        "-573203980",
+        "-1185956769",
+        "-128119228",
+        "-2006806885",
+        "-285202530",
+        "-386600639",
+        "-455647535",
+        "880602626",
+        "-555801512",
+        "1087335793",
+        "154658675",
+        "-1611763306"
       ]
     }
   ],
-  "lt_sptag": [
+  "lt_nortag": [
     {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
+      "id_nortag": "-1185956769",
+      "name_nortag": "Hinata Hyuga",
+      "total_img": 54
     },
+    {
+      "id_nortag": "-2006806885",
+      "name_nortag": "Ino Yamanaka",
+      "total_img": 15
+    },
+    {
+      "id_nortag": "-1291301068",
+      "name_nortag": "Iruka Umino",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-555801512",
+      "name_nortag": "Kakashi Hatake",
+      "total_img": 99
+    },
+    {
+      "id_nortag": "-128119228",
+      "name_nortag": "Kurenai Yuhi",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "880602626",
+      "name_nortag": "Might Guy",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "154658675",
+      "name_nortag": "Naruto Uzumaki",
+      "total_img": 292
+    },
+    {
+      "id_nortag": "-573203980",
+      "name_nortag": "Neji Hyuga",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "-23468393",
+      "name_nortag": "Obito Uchiha",
+      "total_img": 59
+    },
+    {
+      "id_nortag": "-455647535",
+      "name_nortag": "Rock Lee",
+      "total_img": 23
+    },
+    {
+      "id_nortag": "612830294",
+      "name_nortag": "Sai Naruto",
+      "total_img": 13
+    },
+    {
+      "id_nortag": "-1611763306",
+      "name_nortag": "Sakura Haruno",
+      "total_img": 93
+    },
+    {
+      "id_nortag": "-285202530",
+      "name_nortag": "Sasuke Uchiha",
+      "total_img": 154
+    },
+    {
+      "id_nortag": "-386600639",
+      "name_nortag": "Shikamaru Nara",
+      "total_img": 23
+    },
+    {
+      "id_nortag": "1087335793",
+      "name_nortag": "Tenten Naruto",
+      "total_img": 9
+    }
+  ],
+  "lt_sptag": [
     {
       "id_sptag": "-1782893951",
       "key_sptag": "isGirlEyesBrownAnime",
@@ -151,22 +315,10 @@
       "total": 9376
     },
     {
-      "id_sptag": "679383692",
-      "key_sptag": "isGirlKimonoAnime",
-      "name_sptag": "Girls Kimono Yukata Cheongsam",
-      "total": 7942
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
     },
     {
       "id_sptag": "-154622774",
@@ -175,10 +327,28 @@
       "total": 16737
     },
     {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "679383692",
+      "key_sptag": "isGirlKimonoAnime",
+      "name_sptag": "Girls Kimono Yukata Cheongsam",
+      "total": 7942
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     }
   ]
 }

@@ -5,9 +5,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-1842794830",
-  "hc_lt_data_img": "1425673117",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1825209916",
+  "hc_lt_data_img": "1878008270",
+  "hc_lt_nortag": "-612956696",
+  "hc_lt_sptag": "1898533442",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,33 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "114590101",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-794846431",
+      "hc_lt_id_sptag": "-92768474",
+      "id_img": "SoranoMukoudeSakimasuyouni_792672_crop2608_661604664",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzytpBSPQIxcsQrAzu+gkUZdsOC2AupD2W+QkbdUTCbJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzytpBSPQIxcsQrAzu+gkUXVQcAoIn6B7F7Bln2Y5pH5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "202314140"
+      ],
+      "list_id_nortag": [
+        "-1847389962",
+        "1992679946",
+        "-1050720203",
+        "-1941707181",
+        "-341597753"
+      ],
+      "lt_id_sptag": [
+        "154003721",
+        "-326078627",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "114590101",
+      "hc_lt_id_nortag": "1735956801",
       "hc_lt_id_sptag": "1001155740",
       "id_img": "SoranoMukoudeSakimasuyouni_792663_crop2608_-1615276646",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifps1XAQTsnGxFqwbZFBSIE2jwSBMrcBMPM43uiOUZ8CZVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +57,12 @@
       "lt_id_alb": [
         "68811063",
         "202314140"
+      ],
+      "list_id_nortag": [
+        "-1847389962",
+        "2696239",
+        "-341597753",
+        "64285920"
       ],
       "lt_id_sptag": [
         "-120608061",
@@ -45,26 +77,7 @@
     },
     {
       "hc_lt_id_alb": "114590101",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-92768474",
-      "id_img": "SoranoMukoudeSakimasuyouni_792672_crop2608_661604664",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzytpBSPQIxcsQrAzu+gkUZdsOC2AupD2W+QkbdUTCbJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifzytpBSPQIxcsQrAzu+gkUXVQcAoIn6B7F7Bln2Y5pH5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "202314140"
-      ],
-      "lt_id_sptag": [
-        "154003721",
-        "-326078627",
-        "1439812287",
-        "1911583362",
-        "635218351"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "114590101",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1237353487",
       "hc_lt_id_sptag": "-92768474",
       "id_img": "SoranoMukoudeSakimasuyouni_792722_crop2608_272617950",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM4CxkbFqQAL7r4x2cxd3nqi64Yw+T5YsNHOH6oMkSXZVy4706IhQgSYlgwrgVRHU=",
@@ -72,6 +85,17 @@
       "lt_id_alb": [
         "68811063",
         "202314140"
+      ],
+      "list_id_nortag": [
+        "1170523320",
+        "-1173951508",
+        "684071802",
+        "1992679946",
+        "-1050720203",
+        "-1941707181",
+        "-341597753",
+        "1227682890",
+        "64285920"
       ],
       "lt_id_sptag": [
         "154003721",
@@ -82,18 +106,69 @@
       ]
     }
   ],
-  "lt_sptag": [
+  "lt_nortag": [
     {
-      "id_sptag": "-120608061",
-      "key_sptag": "isGirlHairOrangeAnime",
-      "name_sptag": "Girls Hair Orange",
-      "total": 4128
+      "id_nortag": "1992679946",
+      "name_nortag": "Blonde",
+      "total_img": 908
     },
     {
-      "id_sptag": "-564636969",
-      "key_sptag": "isGirlSharpCanineToothAnime",
-      "name_sptag": "Girls Sharp Canine Tooth",
-      "total": 3202
+      "id_nortag": "64285920",
+      "name_nortag": "Blush",
+      "total_img": 893
+    },
+    {
+      "id_nortag": "-1941707181",
+      "name_nortag": "Hairpin",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "-1050720203",
+      "name_nortag": "Headband",
+      "total_img": 73
+    },
+    {
+      "id_nortag": "1227682890",
+      "name_nortag": "Kanno Kou",
+      "total_img": 1
+    },
+    {
+      "id_nortag": "-1173951508",
+      "name_nortag": "Mahori Tsukasa",
+      "total_img": 1
+    },
+    {
+      "id_nortag": "684071802",
+      "name_nortag": "Ponytail",
+      "total_img": 108
+    },
+    {
+      "id_nortag": "-1847389962",
+      "name_nortag": "Ribbon",
+      "total_img": 156
+    },
+    {
+      "id_nortag": "-341597753",
+      "name_nortag": "Urara Haruki",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "2696239",
+      "name_nortag": "Wink",
+      "total_img": 132
+    },
+    {
+      "id_nortag": "1170523320",
+      "name_nortag": "Yae Renjou",
+      "total_img": 2
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
       "id_sptag": "1211227273",
@@ -102,16 +177,34 @@
       "total": 6605
     },
     {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "-120608061",
+      "key_sptag": "isGirlHairOrangeAnime",
+      "name_sptag": "Girls Hair Orange",
+      "total": 4128
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
     },
     {
-      "id_sptag": "-143534545",
-      "key_sptag": "isGirlHairBlueAnime",
-      "name_sptag": "Girls Hair Blue",
-      "total": 9528
+      "id_sptag": "-564636969",
+      "key_sptag": "isGirlSharpCanineToothAnime",
+      "name_sptag": "Girls Sharp Canine Tooth",
+      "total": 3202
     },
     {
       "id_sptag": "1439812287",
@@ -124,18 +217,6 @@
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
-    },
-    {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
     }
   ]
 }

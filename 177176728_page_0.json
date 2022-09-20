@@ -5,8 +5,8 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "51526126",
-  "hc_lt_data_img": "-1205827297",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "2035101210",
+  "hc_lt_nortag": "-1257306471",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -18,36 +18,228 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1630638675",
       "hc_lt_id_sptag": "",
       "id_img": "Crossover_740707_crop2608_-1030304344",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicU+9iWaNPwrnF04SlrBNO/9SP8Zh5BJCSyaVPwx7rZa5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicU+9iWaNPwrnF04SlrBNO/Gg/YXrPgJRPykR/bn0hG4JVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "874521772",
+        "-958187632",
+        "1699452525",
+        "74602",
+        "115056883",
+        "940301965",
+        "126849301",
+        "633717388",
+        "-320799925",
+        "579468016",
+        "-285202530",
+        "908349291",
+        "-61413949",
+        "177176728",
+        "-423342865",
+        "-555801512",
+        "-302569620",
+        "2076731033",
+        "-827276520",
+        "145909088",
+        "154658675",
+        "-1611763306",
+        "788123686"
       ]
     },
     {
       "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1630638675",
       "hc_lt_id_sptag": "",
       "id_img": "Crossover_740707_crop2608_-1625619030",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifHo0uH2aCrdkMVsEEB8VqSZ8C4yPGKzsw8ZPzQrKI/PJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifHo0uH2aCrdkMVsEEB8VqShFfJ5kmMfPN8Cn8aPc0JK5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "874521772",
+        "-958187632",
+        "1699452525",
+        "74602",
+        "115056883",
+        "940301965",
+        "126849301",
+        "633717388",
+        "-320799925",
+        "579468016",
+        "-285202530",
+        "908349291",
+        "-61413949",
+        "177176728",
+        "-423342865",
+        "-555801512",
+        "-302569620",
+        "2076731033",
+        "-827276520",
+        "145909088",
+        "154658675",
+        "-1611763306",
+        "788123686"
       ]
     },
     {
       "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1630638675",
       "hc_lt_id_sptag": "",
       "id_img": "Crossover_740707_crop2608_1275593083",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9bFfhMR1AUAeBdRqtQpFIpkTm8kbUsc/8mPP0HPtJoJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9bFfhMR1AUAeBdRqtQpFIitf2lnJjvsAUseycSx2Dd5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "874521772",
+        "-958187632",
+        "1699452525",
+        "74602",
+        "115056883",
+        "940301965",
+        "126849301",
+        "633717388",
+        "-320799925",
+        "579468016",
+        "-285202530",
+        "908349291",
+        "-61413949",
+        "177176728",
+        "-423342865",
+        "-555801512",
+        "-302569620",
+        "2076731033",
+        "-827276520",
+        "145909088",
+        "154658675",
+        "-1611763306",
+        "788123686"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "940301965",
+      "name_nortag": "Asuna Yuuki",
+      "total_img": 201
+    },
+    {
+      "id_nortag": "1699452525",
+      "name_nortag": "Gintama",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "-302569620",
+      "name_nortag": "Gintoki Sakata",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "126849301",
+      "name_nortag": "Homura Akemi",
+      "total_img": 230
+    },
+    {
+      "id_nortag": "-958187632",
+      "name_nortag": "Ichigo Kurosaki",
+      "total_img": 201
+    },
+    {
+      "id_nortag": "145909088",
+      "name_nortag": "Kagura Gintama",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "-555801512",
+      "name_nortag": "Kakashi Hatake",
+      "total_img": 99
+    },
+    {
+      "id_nortag": "633717388",
+      "name_nortag": "Kamina Tengen Toppa Gurren Lagann",
+      "total_img": 13
+    },
+    {
+      "id_nortag": "115056883",
+      "name_nortag": "Kanade Tachibana",
+      "total_img": 216
+    },
+    {
+      "id_nortag": "-320799925",
+      "name_nortag": "Kazuto Kirigaya",
+      "total_img": 125
+    },
+    {
+      "id_nortag": "-61413949",
+      "name_nortag": "Kirito Sword Art Online",
+      "total_img": 206
+    },
+    {
+      "id_nortag": "74602",
+      "name_nortag": "KON",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "579468016",
+      "name_nortag": "Leafa Sword Art Online",
+      "total_img": 37
+    },
+    {
+      "id_nortag": "874521772",
+      "name_nortag": "Madoka Kaname",
+      "total_img": 232
+    },
+    {
+      "id_nortag": "154658675",
+      "name_nortag": "Naruto Uzumaki",
+      "total_img": 292
+    },
+    {
+      "id_nortag": "2076731033",
+      "name_nortag": "Orihime Inoue",
+      "total_img": 33
+    },
+    {
+      "id_nortag": "-827276520",
+      "name_nortag": "Rukia Kuchiki",
+      "total_img": 81
+    },
+    {
+      "id_nortag": "-1611763306",
+      "name_nortag": "Sakura Haruno",
+      "total_img": 93
+    },
+    {
+      "id_nortag": "-285202530",
+      "name_nortag": "Sasuke Uchiha",
+      "total_img": 154
+    },
+    {
+      "id_nortag": "-423342865",
+      "name_nortag": "Uryu Ishida",
+      "total_img": 30
+    },
+    {
+      "id_nortag": "177176728",
+      "name_nortag": "Yoko Littner",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "908349291",
+      "name_nortag": "Yui Angel Beats",
+      "total_img": 81
+    },
+    {
+      "id_nortag": "788123686",
+      "name_nortag": "Yui Sword Art Online",
+      "total_img": 46
     }
   ]
 }

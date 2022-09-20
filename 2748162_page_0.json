@@ -4,26 +4,26 @@
   "name_nortag": "Yaoi",
   "total_img": 1,
   "total_page": 0,
-  "hc_lt_alb": "-1427975786",
-  "hc_lt_data_img": "-2042926190",
-  "hc_lt_nortag": "",
+  "hc_lt_alb": "-1210603508",
+  "hc_lt_data_img": "865009994",
+  "hc_lt_nortag": "1980664659",
   "hc_lt_sptag": "",
   "lt_alb": [
-    {
-      "id_alb": "1787217502",
-      "name_alb": "Death Note",
-      "total_img": 92
-    },
     {
       "id_alb": "2024260576",
       "name_alb": "Couple",
       "total_img": 2059
+    },
+    {
+      "id_alb": "1787217502",
+      "name_alb": "Death Note",
+      "total_img": 92
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1273558309",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1552843174",
       "hc_lt_id_sptag": "",
       "id_img": "DeathNote_922263_crop2608_1163428641",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1YvmraCPWReveoqNhoKmlG+f0A5u87IahLMXMoogpPJVy4706IhQgSYlgwrgVRHU=",
@@ -31,7 +31,29 @@
       "lt_id_alb": [
         "1787217502",
         "2024260576"
+      ],
+      "list_id_nortag": [
+        "1339700914",
+        "739919240",
+        "2748162"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1339700914",
+      "name_nortag": "L Death Note",
+      "total_img": 24
+    },
+    {
+      "id_nortag": "739919240",
+      "name_nortag": "Light Yagami",
+      "total_img": 24
+    },
+    {
+      "id_nortag": "2748162",
+      "name_nortag": "Yaoi",
+      "total_img": 1
     }
   ]
 }

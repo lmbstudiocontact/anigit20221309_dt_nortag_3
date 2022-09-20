@@ -4,73 +4,26 @@
   "name_nortag": "Thorfinn Vinland Saga",
   "total_img": 7,
   "total_page": 0,
-  "hc_lt_alb": "728665160",
-  "hc_lt_data_img": "-1375133081",
-  "hc_lt_nortag": "",
+  "hc_lt_alb": "1760329626",
+  "hc_lt_data_img": "140600912",
+  "hc_lt_nortag": "1881924660",
   "hc_lt_sptag": "",
   "lt_alb": [
-    {
-      "id_alb": "-273250494",
-      "name_alb": "Vinland Saga",
-      "total_img": 9
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "-273250494",
+      "name_alb": "Vinland Saga",
+      "total_img": 9
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "609420023",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "VinlandSaga_1002833_crop2608_-118400085",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXOO+WBTSCWhaM92d9PtCk3RD3M46qckvL6/cDT4OuY5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXOO+WBTSCWhaM92d9PtCkkT/FgtgBiLL/of6V3d/7zpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-273250494",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "433638274",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "VinlandSaga_1002833_crop2608_-627942440",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifq4aOZFFCMbITdcKxChrKtoOFmPyVXqv5tJbIrTtJHOZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifq4aOZFFCMbITdcKxChrKtHXUsj3RMWw01Vhx7++G5sZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-273250494"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "609420023",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "VinlandSaga_1023171_crop2608_-1320671425",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic7WUxC7OsrhDhsMh9ArkmatzNHEMqX4vz5FHpQyUnyp5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic7WUxC7OsrhDhsMh9ArkmasjoKqaq/A32P+wUlOPpZ55Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-273250494",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "609420023",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "VinlandSaga_1023171_crop2608_-664497556",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxOOspBq5DQEFsTeqNYw7j36j4BNTIc7ZhxL4rbWTprJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxOOspBq5DQEFsTeqNYw7jOEZly3fxDT53jaw5E+SDUpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-273250494",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "609420023",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1815548997",
       "hc_lt_id_sptag": "",
       "id_img": "VinlandSaga_1023172_crop2608_843054253",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQxMcQbSvgChivPek7eT4jH0YtkDxHZzEb9rFJwlFxKJVy4706IhQgSYlgwrgVRHU=",
@@ -78,11 +31,29 @@
       "lt_id_alb": [
         "-273250494",
         "66988"
+      ],
+      "list_id_nortag": [
+        "66375656"
       ]
     },
     {
       "hc_lt_id_alb": "609420023",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1815548997",
+      "hc_lt_id_sptag": "",
+      "id_img": "VinlandSaga_1023171_crop2608_-1320671425",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic7WUxC7OsrhDhsMh9ArkmatzNHEMqX4vz5FHpQyUnyp5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic7WUxC7OsrhDhsMh9ArkmasjoKqaq/A32P+wUlOPpZ55Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-273250494",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "66375656"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "609420023",
+      "hc_lt_id_nortag": "1815548997",
       "hc_lt_id_sptag": "",
       "id_img": "VinlandSaga_1031845_crop2608_-1442859179",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieER58yRD3jSKXdyzZYekM4fkrw/Gq5X/J4QUr6KkLBKpVy4706IhQgSYlgwrgVRHU=",
@@ -90,11 +61,29 @@
       "lt_id_alb": [
         "-273250494",
         "66988"
+      ],
+      "list_id_nortag": [
+        "66375656"
       ]
     },
     {
       "hc_lt_id_alb": "609420023",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1815548997",
+      "hc_lt_id_sptag": "",
+      "id_img": "VinlandSaga_1023171_crop2608_-664497556",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxOOspBq5DQEFsTeqNYw7j36j4BNTIc7ZhxL4rbWTprJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxOOspBq5DQEFsTeqNYw7jOEZly3fxDT53jaw5E+SDUpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-273250494",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "66375656"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "609420023",
+      "hc_lt_id_nortag": "1815548997",
       "hc_lt_id_sptag": "",
       "id_img": "VinlandSaga_1031845_crop2608_340283741",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieew/0vcil/q9g1xGp0Nrl1/4leKTaoraIqZPUShIh3U5Vy4706IhQgSYlgwrgVRHU=",
@@ -102,7 +91,46 @@
       "lt_id_alb": [
         "-273250494",
         "66988"
+      ],
+      "list_id_nortag": [
+        "66375656"
       ]
+    },
+    {
+      "hc_lt_id_alb": "609420023",
+      "hc_lt_id_nortag": "1815548997",
+      "hc_lt_id_sptag": "",
+      "id_img": "VinlandSaga_1002833_crop2608_-118400085",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXOO+WBTSCWhaM92d9PtCk3RD3M46qckvL6/cDT4OuY5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXOO+WBTSCWhaM92d9PtCkkT/FgtgBiLL/of6V3d/7zpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-273250494",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "66375656"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "433638274",
+      "hc_lt_id_nortag": "1815548997",
+      "hc_lt_id_sptag": "",
+      "id_img": "VinlandSaga_1002833_crop2608_-627942440",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifq4aOZFFCMbITdcKxChrKtoOFmPyVXqv5tJbIrTtJHOZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifq4aOZFFCMbITdcKxChrKtHXUsj3RMWw01Vhx7++G5sZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-273250494"
+      ],
+      "list_id_nortag": [
+        "66375656"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "66375656",
+      "name_nortag": "Thorfinn Vinland Saga",
+      "total_img": 7
     }
   ]
 }

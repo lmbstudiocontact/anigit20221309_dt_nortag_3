@@ -4,20 +4,20 @@
   "name_nortag": "Yamcha Dragon Ball",
   "total_img": 6,
   "total_page": 0,
-  "hc_lt_alb": "1382855632",
-  "hc_lt_data_img": "1456499069",
-  "hc_lt_nortag": "",
+  "hc_lt_alb": "1114028320",
+  "hc_lt_data_img": "1816695639",
+  "hc_lt_nortag": "674128974",
   "hc_lt_sptag": "",
   "lt_alb": [
-    {
-      "id_alb": "-1433462233",
-      "name_alb": "Dragon Ball Super",
-      "total_img": 404
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "-1433462233",
+      "name_alb": "Dragon Ball Super",
+      "total_img": 404
     },
     {
       "id_alb": "-60413972",
@@ -28,7 +28,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-517715020",
       "hc_lt_id_sptag": "",
       "id_img": "DragonBallSuper_772380_crop2608_1577190049",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidaKwW1M0P04n7Jy/x6uY6MJR2Jqrz6ehXWLObwz2We7ZVy4706IhQgSYlgwrgVRHU=",
@@ -36,11 +36,30 @@
       "lt_id_alb": [
         "-1433462233",
         "66988"
+      ],
+      "list_id_nortag": [
+        "-40133333",
+        "575008869",
+        "-1786351203",
+        "2225266",
+        "-1713373829",
+        "-726228550",
+        "-274244929",
+        "75965107",
+        "-280184411",
+        "-198841232",
+        "782198776",
+        "295983123",
+        "-878742933",
+        "-966492797",
+        "-1633738069",
+        "-1496184476",
+        "-1140366362"
       ]
     },
     {
       "hc_lt_id_alb": "-1619915059",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-369670444",
       "hc_lt_id_sptag": "",
       "id_img": "DragonBall_680637_crop2608_1849356327",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuyJ46xx8/nB3O/NCSIndXh2xV5qNxjnqK5oGFy5WD4pVy4706IhQgSYlgwrgVRHU=",
@@ -48,23 +67,33 @@
       "lt_id_alb": [
         "66988",
         "-60413972"
+      ],
+      "list_id_nortag": [
+        "575008869",
+        "2225266",
+        "75965107",
+        "-280184411",
+        "-966492797"
       ]
     },
     {
-      "hc_lt_id_alb": "-1619915059",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "1077453380",
+      "hc_lt_id_nortag": "1500737318",
       "hc_lt_id_sptag": "",
-      "id_img": "DragonBall_680639_crop2608_-1960114355",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUx3Ug/5zPbYnn62olBscsHOl8XDZTY6qyBXYU+lAVVZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUx3Ug/5zPbYnn62olBscsQsNcaaSlRvnCQ0znVKh5xpVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "DragonBall_680675_crop2608_300746221",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiievqJ2sfzxi0wGoSMG/NPa2bF6keFNDfVcIwUJiNVzIRpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiievqJ2sfzxi0wGoSMG/NPa2P7baZESnAW14so8muoBFo5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "66988",
         "-60413972"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "-966492797"
       ]
     },
     {
       "hc_lt_id_alb": "-1619915059",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1500737318",
       "hc_lt_id_sptag": "",
       "id_img": "DragonBall_680642_crop2608_-138609307",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicx2Aydg4cFC3FhddLkR2VrpuPiGDdN3U9aH3ETC8oXz5Vy4706IhQgSYlgwrgVRHU=",
@@ -72,29 +101,137 @@
       "lt_id_alb": [
         "66988",
         "-60413972"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "-966492797"
       ]
     },
     {
       "hc_lt_id_alb": "1077453380",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1500737318",
       "hc_lt_id_sptag": "",
       "id_img": "DragonBall_680675_crop2608_-1442523707",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9P4eOTQELP7DDnOawzion+iBrANMwxyc63e/QHqSvspVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9P4eOTQELP7DDnOawzionMEf2/PwKCBumJcnS5JEfMZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-60413972"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "-966492797"
       ]
     },
     {
-      "hc_lt_id_alb": "1077453380",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "-1619915059",
+      "hc_lt_id_nortag": "-2034197625",
       "hc_lt_id_sptag": "",
-      "id_img": "DragonBall_680675_crop2608_300746221",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiievqJ2sfzxi0wGoSMG/NPa2bF6keFNDfVcIwUJiNVzIRpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiievqJ2sfzxi0wGoSMG/NPa2P7baZESnAW14so8muoBFo5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "DragonBall_680639_crop2608_-1960114355",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUx3Ug/5zPbYnn62olBscsHOl8XDZTY6qyBXYU+lAVVZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUx3Ug/5zPbYnn62olBscsQsNcaaSlRvnCQ0znVKh5xpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
+        "66988",
         "-60413972"
+      ],
+      "list_id_nortag": [
+        "575008869",
+        "2225266",
+        "75965107",
+        "-1301285671",
+        "-966492797"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1496184476",
+      "name_nortag": "Android 18 Dragon Ball",
+      "total_img": 19
+    },
+    {
+      "id_nortag": "-726228550",
+      "name_nortag": "Beerus Dragon Ball",
+      "total_img": 18
+    },
+    {
+      "id_nortag": "-40133333",
+      "name_nortag": "Black Dragon Ball",
+      "total_img": 29
+    },
+    {
+      "id_nortag": "295983123",
+      "name_nortag": "Black Goku",
+      "total_img": 32
+    },
+    {
+      "id_nortag": "-1713373829",
+      "name_nortag": "Frieza Dragon Ball",
+      "total_img": 35
+    },
+    {
+      "id_nortag": "-198841232",
+      "name_nortag": "Frost Dragon Ball",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-1301285671",
+      "name_nortag": "Gohan Dragon Ball",
+      "total_img": 63
+    },
+    {
+      "id_nortag": "2225266",
+      "name_nortag": "Goku",
+      "total_img": 321
+    },
+    {
+      "id_nortag": "-274244929",
+      "name_nortag": "Hit Dragon Ball",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "75965107",
+      "name_nortag": "Krillin Dragon Ball",
+      "total_img": 31
+    },
+    {
+      "id_nortag": "-1786351203",
+      "name_nortag": "Majin Buu",
+      "total_img": 37
+    },
+    {
+      "id_nortag": "575008869",
+      "name_nortag": "Master Roshi Dragon Ball",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "-280184411",
+      "name_nortag": "Piccolo Dragon Ball",
+      "total_img": 37
+    },
+    {
+      "id_nortag": "-878742933",
+      "name_nortag": "SSGSS Goku",
+      "total_img": 20
+    },
+    {
+      "id_nortag": "-1633738069",
+      "name_nortag": "Trunks Dragon Ball",
+      "total_img": 48
+    },
+    {
+      "id_nortag": "-1140366362",
+      "name_nortag": "Vegeta Dragon Ball",
+      "total_img": 124
+    },
+    {
+      "id_nortag": "782198776",
+      "name_nortag": "Vegito Dragon Ball",
+      "total_img": 18
+    },
+    {
+      "id_nortag": "-966492797",
+      "name_nortag": "Yamcha Dragon Ball",
+      "total_img": 6
     }
   ]
 }

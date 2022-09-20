@@ -5,9 +5,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-837403396",
-  "hc_lt_data_img": "-1745251373",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1120723967",
+  "hc_lt_data_img": "269209662",
+  "hc_lt_nortag": "849598368",
+  "hc_lt_sptag": "-1402304173",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -28,7 +28,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-1367358028",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1931322525",
       "hc_lt_id_sptag": "1049118194",
       "id_img": "TheIdolmasterCinderellaGirlsStarlightStage_829300_crop2608_-114143118",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieYaKT9hJgZbDCVpiJFB5s15QOHfNuZ/P567kzzeWvanZVy4706IhQgSYlgwrgVRHU=",
@@ -36,6 +36,10 @@
       "lt_id_alb": [
         "68811063",
         "1948004981"
+      ],
+      "list_id_nortag": [
+        "-516021218",
+        "260464735"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -50,29 +54,7 @@
     },
     {
       "hc_lt_id_alb": "816186529",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-1126933424",
-      "id_img": "TheiDOLMSTER_785557_crop2608_679530978",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSmdHJez8ZpibM3OnWVQEWoZfNchQ49cdixBf9fVhmd5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSmdHJez8ZpibM3OnWVQEWipFLvOcBkwz0kk0QMJ6onZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "-342616460"
-      ],
-      "lt_id_sptag": [
-        "-2139213873",
-        "-1782893951",
-        "-143380300",
-        "1600730941",
-        "1439812287",
-        "679383692",
-        "1911583362",
-        "-143528947"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "816186529",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-824892349",
       "hc_lt_id_sptag": "-1501696018",
       "id_img": "TheiDOLMSTER_785557_crop2608_679530979",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid9YJ1y1EIQPDpfEmLcB5j0v/2KHtrBtx3LUsDhJk+hg5Vy4706IhQgSYlgwrgVRHU=",
@@ -80,6 +62,11 @@
       "lt_id_alb": [
         "68811063",
         "-342616460"
+      ],
+      "list_id_nortag": [
+        "-855557704",
+        "-516021218",
+        "-699331840"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -93,20 +80,69 @@
         "1911583362",
         "-143528947"
       ]
+    },
+    {
+      "hc_lt_id_alb": "816186529",
+      "hc_lt_id_nortag": "-824892349",
+      "hc_lt_id_sptag": "-1126933424",
+      "id_img": "TheiDOLMSTER_785557_crop2608_679530978",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSmdHJez8ZpibM3OnWVQEWoZfNchQ49cdixBf9fVhmd5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSmdHJez8ZpibM3OnWVQEWipFLvOcBkwz0kk0QMJ6onZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-342616460"
+      ],
+      "list_id_nortag": [
+        "-855557704",
+        "-516021218",
+        "-699331840"
+      ],
+      "lt_id_sptag": [
+        "-2139213873",
+        "-1782893951",
+        "-143380300",
+        "1600730941",
+        "1439812287",
+        "679383692",
+        "1911583362",
+        "-143528947"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-855557704",
+      "name_nortag": "Karin Domyoji",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "-699331840",
+      "name_nortag": "Ranko Kanzaki",
+      "total_img": 27
+    },
+    {
+      "id_nortag": "260464735",
+      "name_nortag": "Yuki Himekawa",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-516021218",
+      "name_nortag": "Yuko Hori",
+      "total_img": 3
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
     },
     {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
       "id_sptag": "-1782893951",
@@ -115,28 +151,16 @@
       "total": 9376
     },
     {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
     },
     {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
     },
     {
       "id_sptag": "-143528947",
@@ -151,10 +175,10 @@
       "total": 9239
     },
     {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
     },
     {
       "id_sptag": "679383692",
@@ -163,16 +187,28 @@
       "total": 7942
     },
     {
-      "id_sptag": "-14067806",
-      "key_sptag": "isGirlHairSilverAnime",
-      "name_sptag": "Girls Hair Silver",
-      "total": 16300
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
     },
     {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     }
   ]
 }

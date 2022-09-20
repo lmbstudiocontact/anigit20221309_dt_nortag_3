@@ -4,26 +4,26 @@
   "name_nortag": "Yorktown Azur Lane",
   "total_img": 1,
   "total_page": 0,
-  "hc_lt_alb": "103013157",
-  "hc_lt_data_img": "1562532406",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1158841566",
+  "hc_lt_alb": "286598045",
+  "hc_lt_data_img": "-587896351",
+  "hc_lt_nortag": "1222076873",
+  "hc_lt_sptag": "-1171466182",
   "lt_alb": [
-    {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
     {
       "id_alb": "408425270",
       "name_alb": "Azur Lane",
       "total_img": 185
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1854286778",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "550756003",
       "hc_lt_id_sptag": "-188804969",
       "id_img": "AzurLane_839531_crop2608_1548076818",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicWSJhrOnhvPFpKACesxaDOP7jbJUEtglRDlIOMZBHOfpVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,11 @@
       "lt_id_alb": [
         "68811063",
         "408425270"
+      ],
+      "list_id_nortag": [
+        "1019961086",
+        "-1292461737",
+        "1152854231"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -40,6 +45,23 @@
         "-1743477818",
         "1911583362"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1019961086",
+      "name_nortag": "Bilan Hangxian",
+      "total_img": 15
+    },
+    {
+      "id_nortag": "-1292461737",
+      "name_nortag": "Enterprise Azur Lane",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "1152854231",
+      "name_nortag": "Yorktown Azur Lane",
+      "total_img": 1
     }
   ],
   "lt_sptag": [
@@ -56,28 +78,28 @@
       "total": 8666
     },
     {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
     },
     {
-      "id_sptag": "-1743477818",
-      "key_sptag": "isGirlWaterRainAnime",
-      "name_sptag": "Girls Water Rain",
-      "total": 2954
-    },
-    {
       "id_sptag": "1911583362",
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-1743477818",
+      "key_sptag": "isGirlWaterRainAnime",
+      "name_sptag": "Girls Water Rain",
+      "total": 2954
     }
   ]
 }

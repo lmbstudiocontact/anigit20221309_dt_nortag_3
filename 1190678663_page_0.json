@@ -5,9 +5,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-732949522",
-  "hc_lt_data_img": "-1850883519",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1851019318",
+  "hc_lt_data_img": "1435989476",
+  "hc_lt_nortag": "-818867644",
+  "hc_lt_sptag": "-68471480",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "901198281",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1007532793",
       "hc_lt_id_sptag": "-1530098026",
       "id_img": "LoveLive_776802_crop2608_-751319561",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieK25JNyqFiY8jEXkdyEXLwT34fjWL3+qV2mBn7PZWbjJVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,11 @@
       "lt_id_alb": [
         "68811063",
         "525550810"
+      ],
+      "list_id_nortag": [
+        "65078219",
+        "1190678663",
+        "1459147123"
       ],
       "lt_id_sptag": [
         "-120608061",
@@ -42,18 +47,35 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "65078219",
+      "name_nortag": "Chibi",
+      "total_img": 62
+    },
+    {
+      "id_nortag": "1459147123",
+      "name_nortag": "Honoka Kousaka",
+      "total_img": 239
+    },
+    {
+      "id_nortag": "1190678663",
+      "name_nortag": "Yukiho Kosaka",
+      "total_img": 1
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
     {
       "id_sptag": "-120608061",
       "key_sptag": "isGirlHairOrangeAnime",
       "name_sptag": "Girls Hair Orange",
       "total": 4128
-    },
-    {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
     },
     {
       "id_sptag": "-2139213873",
@@ -68,16 +90,16 @@
       "total": 24284
     },
     {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
       "id_sptag": "1911583362",
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
-    },
-    {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
     }
   ]
 }

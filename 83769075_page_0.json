@@ -5,8 +5,8 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "1269617022",
-  "hc_lt_data_img": "859445018",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "1166941195",
+  "hc_lt_nortag": "-1941425039",
   "hc_lt_sptag": "-1164328411",
   "lt_alb": [
     {
@@ -28,7 +28,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "996743698",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "234476186",
       "hc_lt_id_sptag": "",
       "id_img": "MyHeroAcademia_815297_crop2608_-1315809670",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMF4nZi6fMmCrtsQ9pfY4A0AH9/91CBOlL5H+o28eKhpVy4706IhQgSYlgwrgVRHU=",
@@ -36,11 +36,18 @@
       "lt_id_alb": [
         "66988",
         "-303570153"
+      ],
+      "list_id_nortag": [
+        "83769075",
+        "64280026",
+        "266176693",
+        "94449020",
+        "-1565229704"
       ]
     },
     {
       "hc_lt_id_alb": "583030106",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-860971163",
       "hc_lt_id_sptag": "1614125515",
       "id_img": "TokyoGhoul_596610_crop2608_-1275047371",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicA2Jbfn2Ujwu2GQSfe5+rsP3/NPYiipdYE1ITlm/5EcZVy4706IhQgSYlgwrgVRHU=",
@@ -49,10 +56,53 @@
         "57904715",
         "66988"
       ],
+      "list_id_nortag": [
+        "883037240",
+        "83769075",
+        "-711817417",
+        "64280026"
+      ],
       "lt_id_sptag": [
         "-1880367671",
         "-1436512555"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "64280026",
+      "name_nortag": "Blood",
+      "total_img": 37
+    },
+    {
+      "id_nortag": "266176693",
+      "name_nortag": "Boku no Hero Academia",
+      "total_img": 50
+    },
+    {
+      "id_nortag": "883037240",
+      "name_nortag": "Heterochromia",
+      "total_img": 83
+    },
+    {
+      "id_nortag": "-1565229704",
+      "name_nortag": "Izuku Midoriya",
+      "total_img": 177
+    },
+    {
+      "id_nortag": "-711817417",
+      "name_nortag": "Ken Kaneki",
+      "total_img": 255
+    },
+    {
+      "id_nortag": "94449020",
+      "name_nortag": "TwoToned Hair",
+      "total_img": 13
+    },
+    {
+      "id_nortag": "83769075",
+      "name_nortag": "Wound",
+      "total_img": 2
     }
   ],
   "lt_sptag": [

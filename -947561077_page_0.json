@@ -5,8 +5,8 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-747243365",
-  "hc_lt_data_img": "1887783908",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "1584840804",
+  "hc_lt_nortag": "-1872781571",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -22,20 +22,22 @@
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "765645735",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "-831953122",
+      "hc_lt_id_nortag": "-925220498",
       "hc_lt_id_sptag": "",
-      "id_img": "ToukenRanbu_744170_crop2608_-1419895322",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF0kTxQEWxbelZTG5guWeGglvnt5ZYDjbWd+zVJzrstpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF0kTxQEWxbelZTG5guWeGlLcIWbtpLpn4XoTWA5YAfJVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "ToukenRanbu_822102_crop2608_-1969631500",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZ5Q+Qg9FNgOYJLQCameszHxOYIWMA4MtKfRCDlNxW3JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZ5Q+Qg9FNgOYJLQCameszCLmpDwF6UuhMMDXAICpKDpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "66988",
         "-1515232308"
+      ],
+      "list_id_nortag": [
+        "-947561077"
       ]
     },
     {
       "hc_lt_id_alb": "765645735",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-925220498",
       "hc_lt_id_sptag": "",
       "id_img": "ToukenRanbu_744170_crop2608_1052163308",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidA8X7JN/0go6qaL2vFRz8CAD/TRH2k4UuJOAc5T6rkTJVy4706IhQgSYlgwrgVRHU=",
@@ -43,11 +45,29 @@
       "lt_id_alb": [
         "66988",
         "-1515232308"
+      ],
+      "list_id_nortag": [
+        "-947561077"
       ]
     },
     {
       "hc_lt_id_alb": "765645735",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-925220498",
+      "hc_lt_id_sptag": "",
+      "id_img": "ToukenRanbu_744170_crop2608_-1419895322",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF0kTxQEWxbelZTG5guWeGglvnt5ZYDjbWd+zVJzrstpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF0kTxQEWxbelZTG5guWeGlLcIWbtpLpn4XoTWA5YAfJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-1515232308"
+      ],
+      "list_id_nortag": [
+        "-947561077"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "765645735",
+      "hc_lt_id_nortag": "-925220498",
       "hc_lt_id_sptag": "",
       "id_img": "ToukenRanbu_805061_crop2608_-606036793",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOjLLZ3ufwKssLUhcTBHqcle/DVSP4TcwpOKzjkNxR35Vy4706IhQgSYlgwrgVRHU=",
@@ -55,18 +75,17 @@
       "lt_id_alb": [
         "66988",
         "-1515232308"
+      ],
+      "list_id_nortag": [
+        "-947561077"
       ]
-    },
+    }
+  ],
+  "lt_nortag": [
     {
-      "hc_lt_id_alb": "-831953122",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ToukenRanbu_822102_crop2608_-1969631500",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZ5Q+Qg9FNgOYJLQCameszHxOYIWMA4MtKfRCDlNxW3JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZ5Q+Qg9FNgOYJLQCameszCLmpDwF6UuhMMDXAICpKDpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1515232308"
-      ]
+      "id_nortag": "-947561077",
+      "name_nortag": "Yamatonokami Yasusada",
+      "total_img": 4
     }
   ]
 }

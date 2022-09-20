@@ -4,15 +4,15 @@
   "name_nortag": "Zipper",
   "total_img": 5,
   "total_page": 0,
-  "hc_lt_alb": "387719454",
-  "hc_lt_data_img": "249469150",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "446739923",
+  "hc_lt_alb": "193042804",
+  "hc_lt_data_img": "2047534774",
+  "hc_lt_nortag": "66824162",
+  "hc_lt_sptag": "-1859392521",
   "lt_alb": [
     {
-      "id_alb": "839140189",
-      "name_alb": "Kagerou Project",
-      "total_img": 103
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
     },
     {
       "id_alb": "2024260576",
@@ -25,6 +25,11 @@
       "total_img": 68557
     },
     {
+      "id_alb": "839140189",
+      "name_alb": "Kagerou Project",
+      "total_img": 103
+    },
+    {
       "id_alb": "-673775880",
       "name_alb": "Nisekoi",
       "total_img": 129
@@ -33,29 +38,12 @@
       "id_alb": "57904715",
       "name_alb": "Tokyo Ghoul",
       "total_img": 279
-    },
-    {
-      "id_alb": "66988",
-      "name_alb": "Boy",
-      "total_img": 8592
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "2058114438",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KagerouProject_785488_crop2608_-1832767460",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFh0H30XL8zlTuzwjo2YVKAr7lnWBXsgJBdZkmWuRm/JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFh0H30XL8zlTuzwjo2YVKVN3v7mSIsNaQSWOrCXMxJZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "839140189",
-        "2024260576"
-      ]
-    },
-    {
       "hc_lt_id_alb": "1543902218",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "798761569",
       "hc_lt_id_sptag": "-695361579",
       "id_img": "Nisekoi_549891_crop2608_1384202703",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifnFgDVzsYE2Wdq16/jXYoKGNf2gvRiISWFmvvjHLPCLZVy4706IhQgSYlgwrgVRHU=",
@@ -63,6 +51,12 @@
       "lt_id_alb": [
         "68811063",
         "-673775880"
+      ],
+      "list_id_nortag": [
+        "-1545783749",
+        "-588679874",
+        "-1617926532",
+        "64285920"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -74,7 +68,7 @@
     },
     {
       "hc_lt_id_alb": "583030106",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-764868055",
       "hc_lt_id_sptag": "1614125515",
       "id_img": "TokyoGhoul_522623_crop2608_-248235500",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQkcJk+8UuinDgOo/MFIUDc8xQyonkA52JC15stlcHvJVy4706IhQgSYlgwrgVRHU=",
@@ -83,21 +77,12 @@
         "57904715",
         "66988"
       ],
-      "lt_id_sptag": [
-        "-1880367671",
-        "-1436512555"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "583030106",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1614125515",
-      "id_img": "TokyoGhoul_545905_crop2608_-1127262534",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid2/OgFmEnwlzGGVtFdlSeJycuB/0AEtmxMlTpp8uD2fJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid2/OgFmEnwlzGGVtFdlSeJJNVhgvlsclDs22xLgIELPpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "57904715",
-        "66988"
+      "list_id_nortag": [
+        "-711817417",
+        "448307014",
+        "64280026",
+        "-1617926532",
+        "2390796"
       ],
       "lt_id_sptag": [
         "-1880367671",
@@ -106,7 +91,29 @@
     },
     {
       "hc_lt_id_alb": "583030106",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1544387692",
+      "hc_lt_id_sptag": "1614125515",
+      "id_img": "TokyoGhoul_545905_crop2608_-1127262534",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid2/OgFmEnwlzGGVtFdlSeJycuB/0AEtmxMlTpp8uD2fJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid2/OgFmEnwlzGGVtFdlSeJJNVhgvlsclDs22xLgIELPpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "57904715",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "-711817417",
+        "-1617926532",
+        "2390796",
+        "80685416"
+      ],
+      "lt_id_sptag": [
+        "-1880367671",
+        "-1436512555"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "583030106",
+      "hc_lt_id_nortag": "217206393",
       "hc_lt_id_sptag": "",
       "id_img": "TokyoGhoul_596844_crop2608_1635209432",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiceB53BnCpi88Yj1AQoG5vVsbDJ16eCKp7pi4UHc5qc0JVy4706IhQgSYlgwrgVRHU=",
@@ -114,10 +121,138 @@
       "lt_id_alb": [
         "57904715",
         "66988"
+      ],
+      "list_id_nortag": [
+        "-711817417",
+        "448307014",
+        "-1617926532",
+        "2390796"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "2058114438",
+      "hc_lt_id_nortag": "-1187049168",
+      "hc_lt_id_sptag": "",
+      "id_img": "KagerouProject_785488_crop2608_-1832767460",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFh0H30XL8zlTuzwjo2YVKAr7lnWBXsgJBdZkmWuRm/JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFh0H30XL8zlTuzwjo2YVKVN3v7mSIsNaQSWOrCXMxJZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "839140189",
+        "2024260576"
+      ],
+      "list_id_nortag": [
+        "435411065",
+        "1825979975",
+        "2696239",
+        "1691615259",
+        "1572629369",
+        "-1617926532",
+        "79944435"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "64280026",
+      "name_nortag": "Blood",
+      "total_img": 37
+    },
+    {
+      "id_nortag": "64285920",
+      "name_nortag": "Blush",
+      "total_img": 893
+    },
+    {
+      "id_nortag": "-588679874",
+      "name_nortag": "bow Clothing",
+      "total_img": 452
+    },
+    {
+      "id_nortag": "448307014",
+      "name_nortag": "Kagune Tokyo Ghoul",
+      "total_img": 27
+    },
+    {
+      "id_nortag": "-711817417",
+      "name_nortag": "Ken Kaneki",
+      "total_img": 255
+    },
+    {
+      "id_nortag": "2390796",
+      "name_nortag": "Mask",
+      "total_img": 69
+    },
+    {
+      "id_nortag": "-1545783749",
+      "name_nortag": "Seishirou Tsugumi",
+      "total_img": 42
+    },
+    {
+      "id_nortag": "1572629369",
+      "name_nortag": "Shintaro Kisaragi",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "79944435",
+      "name_nortag": "Skirt",
+      "total_img": 368
+    },
+    {
+      "id_nortag": "435411065",
+      "name_nortag": "Takane Ene Enomoto",
+      "total_img": 18
+    },
+    {
+      "id_nortag": "80685416",
+      "name_nortag": "Teeth",
+      "total_img": 15
+    },
+    {
+      "id_nortag": "1825979975",
+      "name_nortag": "Thigh Highs",
+      "total_img": 211
+    },
+    {
+      "id_nortag": "1691615259",
+      "name_nortag": "Twintails",
+      "total_img": 386
+    },
+    {
+      "id_nortag": "2696239",
+      "name_nortag": "Wink",
+      "total_img": 132
+    },
+    {
+      "id_nortag": "-1617926532",
+      "name_nortag": "Zipper",
+      "total_img": 5
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "-1880367671",
+      "key_sptag": "isBoyDarkBlack",
+      "name_sptag": "Boy Dark Black",
+      "total": 573
+    },
+    {
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
     {
       "id_sptag": "-154622774",
       "key_sptag": "isGirlHairBlackAnime",
@@ -131,34 +266,10 @@
       "total": 23769
     },
     {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
-    },
-    {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
-    },
-    {
       "id_sptag": "1911583362",
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
-    },
-    {
-      "id_sptag": "-1880367671",
-      "key_sptag": "isBoyDarkBlack",
-      "name_sptag": "Boy Dark Black",
-      "total": 573
-    },
-    {
-      "id_sptag": "-1436512555",
-      "key_sptag": "isDarkBlack",
-      "name_sptag": "Dark Black",
-      "total": 4051
     }
   ]
 }

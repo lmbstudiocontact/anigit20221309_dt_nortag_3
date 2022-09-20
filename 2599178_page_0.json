@@ -5,8 +5,8 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "2112454928",
-  "hc_lt_data_img": "206679496",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "-818002666",
+  "hc_lt_nortag": "-1295124359",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -18,14 +18,24 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "223001737",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1297723538",
       "hc_lt_id_sptag": "",
       "id_img": "NeonGenesisEvangelion_314145_crop2608_-501264253",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif35U62QhyRoOWbEqncpwVxLT2AaQL+Sq3p+eHemBQkCJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif35U62QhyRoOWbEqncpwVxHlEY9txlB2nErGFNzH7OSZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1889453114"
+      ],
+      "list_id_nortag": [
+        "2599178"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "2599178",
+      "name_nortag": "Tank",
+      "total_img": 1
     }
   ]
 }

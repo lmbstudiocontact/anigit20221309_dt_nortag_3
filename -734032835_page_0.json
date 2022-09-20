@@ -4,46 +4,124 @@
   "name_nortag": "Tenryuu Kancolle",
   "total_img": 12,
   "total_page": 0,
-  "hc_lt_alb": "-1966046005",
-  "hc_lt_data_img": "565065285",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "970659858",
+  "hc_lt_alb": "-939484105",
+  "hc_lt_data_img": "-1319937400",
+  "hc_lt_nortag": "820077967",
+  "hc_lt_sptag": "649943876",
   "lt_alb": [
-    {
-      "id_alb": "1106267514",
-      "name_alb": "Kantai Collection",
-      "total_img": 1036
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "1106267514",
+      "name_alb": "Kantai Collection",
+      "total_img": 1036
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "-1969512307",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "299795292",
-      "id_img": "KantaiCollection_576645_crop2608_-691205902",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQvlWaVigqWhl0kiEgglMcSaCYZKBkz/xdIbkFWt4f5pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQvlWaVigqWhl0kiEgglMcvKhACIoF6BzapmE+7lP2+pVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_alb": "508944778",
+      "hc_lt_id_nortag": "2032412795",
+      "hc_lt_id_sptag": "",
+      "id_img": "KantaiCollection_858355_crop2608_840546362",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic70lkxu7E6hXp69QMB+KQ7ys5zZvkixjgHHbLTsdH3lZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic70lkxu7E6hXp69QMB+KQ72Bp71DCI+xwwkzID3+jnRZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "1106267514",
-        "68811063"
+        "1106267514"
       ],
-      "lt_id_sptag": [
-        "-154622774",
-        "-1811357781",
-        "635632331",
-        "-2139213873",
-        "1211227273",
-        "1911583362"
+      "list_id_nortag": [
+        "992926694",
+        "-2145537794",
+        "893253068",
+        "-2147303164",
+        "-248557444",
+        "-740339025",
+        "343414197",
+        "633664536",
+        "-34828289",
+        "-1347703542",
+        "-760897528",
+        "-639153328",
+        "-804138274",
+        "14295588",
+        "111744401",
+        "91170385",
+        "1714038123",
+        "-1217088451",
+        "-1165866733",
+        "-1342550942",
+        "-1849617832",
+        "1059937532",
+        "1900111118",
+        "-644993569",
+        "539927702",
+        "-1554044996",
+        "-1751784817",
+        "-546919848",
+        "177119014",
+        "-425688928",
+        "164179843",
+        "1727598615",
+        "-1469948093",
+        "-1970106907",
+        "841831767",
+        "-1263922381",
+        "-734032835",
+        "1026909586",
+        "929591182",
+        "2021425292",
+        "1433324648",
+        "992088627",
+        "415936983",
+        "-449205224",
+        "-305372015",
+        "430051527",
+        "850139905",
+        "870890066",
+        "-585136949",
+        "-1571792831",
+        "-24980423",
+        "-478140046",
+        "691655616",
+        "1122027891",
+        "-1695362745",
+        "959489333",
+        "-1792960160",
+        "501625219",
+        "-271604829",
+        "1068110808",
+        "-475709487",
+        "2145051468",
+        "959628697",
+        "861294524",
+        "75585941",
+        "1774138532",
+        "-1781733127",
+        "504681304",
+        "-1452903374",
+        "-726914609",
+        "457631460",
+        "490422417",
+        "1592460047",
+        "1912769546",
+        "-1926958556",
+        "1960524762",
+        "327326873",
+        "-1853374821",
+        "1809691894",
+        "-693884471",
+        "-919812419",
+        "-1248462290",
+        "1539552293",
+        "1400233117",
+        "-833994315"
       ]
     },
     {
       "hc_lt_id_alb": "-1969512307",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1495475299",
       "hc_lt_id_sptag": "16507020",
       "id_img": "KantaiCollection_740108_crop2608_-1784695563",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFMsY/64y62L81iqhn9vU1GQhebYDo1qSV8sVhmYARb5Vy4706IhQgSYlgwrgVRHU=",
@@ -51,6 +129,10 @@
       "lt_id_alb": [
         "1106267514",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "80307677",
+        "-734032835"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -64,7 +146,202 @@
     },
     {
       "hc_lt_id_alb": "-1969512307",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1861511915",
+      "hc_lt_id_sptag": "-1521088421",
+      "id_img": "KantaiCollection_922429_crop2608_1638867569",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8xOL4PRsOyRgXbyDUx37/rlfTe/+V+/WJbm0AQCVf05Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8xOL4PRsOyRgXbyDUx37/yBY8hRQ9KPq/TvmgruwVc5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1106267514",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "-734032835"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "1211227273",
+        "-326078627",
+        "71899412"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "508944778",
+      "hc_lt_id_nortag": "2032412795",
+      "hc_lt_id_sptag": "",
+      "id_img": "KantaiCollection_858355_crop2608_2067801803",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicshD07rKX/hGx6ZMarDAewzvS6Z1F5jgWVz/t5u+l1M5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicshD07rKX/hGx6ZMarDAew+aUARgXDf5Xljmi8jIOFKJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1106267514"
+      ],
+      "list_id_nortag": [
+        "992926694",
+        "-2145537794",
+        "893253068",
+        "-2147303164",
+        "-248557444",
+        "-740339025",
+        "343414197",
+        "633664536",
+        "-34828289",
+        "-1347703542",
+        "-760897528",
+        "-639153328",
+        "-804138274",
+        "14295588",
+        "111744401",
+        "91170385",
+        "1714038123",
+        "-1217088451",
+        "-1165866733",
+        "-1342550942",
+        "-1849617832",
+        "1059937532",
+        "1900111118",
+        "-644993569",
+        "539927702",
+        "-1554044996",
+        "-1751784817",
+        "-546919848",
+        "177119014",
+        "-425688928",
+        "164179843",
+        "1727598615",
+        "-1469948093",
+        "-1970106907",
+        "841831767",
+        "-1263922381",
+        "-734032835",
+        "1026909586",
+        "929591182",
+        "2021425292",
+        "1433324648",
+        "992088627",
+        "415936983",
+        "-449205224",
+        "-305372015",
+        "430051527",
+        "850139905",
+        "870890066",
+        "-585136949",
+        "-1571792831",
+        "-24980423",
+        "-478140046",
+        "691655616",
+        "1122027891",
+        "-1695362745",
+        "959489333",
+        "-1792960160",
+        "501625219",
+        "-271604829",
+        "1068110808",
+        "-475709487",
+        "2145051468",
+        "959628697",
+        "861294524",
+        "75585941",
+        "1774138532",
+        "-1781733127",
+        "504681304",
+        "-1452903374",
+        "-726914609",
+        "457631460",
+        "490422417",
+        "1592460047",
+        "1912769546",
+        "-1926958556",
+        "1960524762",
+        "327326873",
+        "-1853374821",
+        "1809691894",
+        "-693884471",
+        "-919812419",
+        "-1248462290",
+        "1539552293",
+        "1400233117",
+        "-833994315"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1969512307",
+      "hc_lt_id_nortag": "921472538",
+      "hc_lt_id_sptag": "299795292",
+      "id_img": "KantaiCollection_576645_crop2608_-691205902",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQvlWaVigqWhl0kiEgglMcSaCYZKBkz/xdIbkFWt4f5pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQvlWaVigqWhl0kiEgglMcvKhACIoF6BzapmE+7lP2+pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1106267514",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "-734032835",
+        "-585136949"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "-1811357781",
+        "635632331",
+        "-2139213873",
+        "1211227273",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1969512307",
+      "hc_lt_id_nortag": "-2131794470",
+      "hc_lt_id_sptag": "1456004689",
+      "id_img": "KantaiCollection_573317_crop2608_1729060965",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifndcufXFqkVOi+9lk4EElmB8BScDZLQ0NkI8GNj0t0GpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifndcufXFqkVOi+9lk4EElm85fQfrUE6V9P8NAreJir7JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1106267514",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "-734032835",
+        "68897849",
+        "702924121"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "-1811357781",
+        "-2139213873",
+        "1211227273",
+        "-271320563",
+        "1439812287",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1969512307",
+      "hc_lt_id_nortag": "1333064808",
+      "hc_lt_id_sptag": "410779318",
+      "id_img": "KantaiCollection_855411_crop2608_-2141919285",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSQ3X9GOb+e4I+6lI0PEgwXMTTk51Ib1/StRNBq4totpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSQ3X9GOb+e4I+6lI0PEgwPG1pD4bRDTbgPtV6CQZL8ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1106267514",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "111744401",
+        "-734032835"
+      ],
+      "lt_id_sptag": [
+        "-2139213873",
+        "1211227273",
+        "-1782893951",
+        "-271320563",
+        "-143534545",
+        "1439506876",
+        "1911583362",
+        "-143528947"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1969512307",
+      "hc_lt_id_nortag": "-1861511915",
       "hc_lt_id_sptag": "1086752173",
       "id_img": "KantaiCollection_855380_crop2608_13414562",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifdsylhDAreL5JGtvtMf0Wli4gR5cXZFIVnzfyX4R51NZVy4706IhQgSYlgwrgVRHU=",
@@ -72,6 +349,9 @@
       "lt_id_alb": [
         "1106267514",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "-734032835"
       ],
       "lt_id_sptag": [
         "-564636969",
@@ -86,62 +366,7 @@
     },
     {
       "hc_lt_id_alb": "-1969512307",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "410779318",
-      "id_img": "KantaiCollection_855411_crop2608_-2141919285",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSQ3X9GOb+e4I+6lI0PEgwXMTTk51Ib1/StRNBq4totpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSQ3X9GOb+e4I+6lI0PEgwPG1pD4bRDTbgPtV6CQZL8ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1106267514",
-        "68811063"
-      ],
-      "lt_id_sptag": [
-        "-2139213873",
-        "1211227273",
-        "-1782893951",
-        "-271320563",
-        "-143534545",
-        "1439506876",
-        "1911583362",
-        "-143528947"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "508944778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KantaiCollection_858355_crop2608_1796591783",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifFc9j06v00XNXKwmiEYdUZiDl+e/Qtk5Ou0ENAeYz0+ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifFc9j06v00XNXKwmiEYdUZmfSpom0QxGKZXsV8n83TFpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1106267514"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "508944778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KantaiCollection_858355_crop2608_2067801803",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicshD07rKX/hGx6ZMarDAewzvS6Z1F5jgWVz/t5u+l1M5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicshD07rKX/hGx6ZMarDAew+aUARgXDf5Xljmi8jIOFKJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1106267514"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "508944778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KantaiCollection_858355_crop2608_840546362",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic70lkxu7E6hXp69QMB+KQ7ys5zZvkixjgHHbLTsdH3lZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic70lkxu7E6hXp69QMB+KQ72Bp71DCI+xwwkzID3+jnRZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1106267514"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1969512307",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1861511915",
       "hc_lt_id_sptag": "169226666",
       "id_img": "KantaiCollection_882741_crop2608_844208721",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid1Tnzzh65rbWBj0JWG81spcmovjYDvp2fx1SQTiBwLQJVy4706IhQgSYlgwrgVRHU=",
@@ -149,6 +374,9 @@
       "lt_id_alb": [
         "1106267514",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "-734032835"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -164,7 +392,29 @@
     },
     {
       "hc_lt_id_alb": "-1969512307",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "921472538",
+      "hc_lt_id_sptag": "1786696077",
+      "id_img": "KantaiCollection_898128_crop2608_1651184035",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRH4BTWwQXlnMA1KroLL7Z36/aaHPMPY9gZICmKm8V0JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRH4BTWwQXlnMA1KroLL7ZGVo75gEIYW4MSP9egr8rCpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1106267514",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "-734032835",
+        "-585136949"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "-1811357781",
+        "635632331",
+        "-2139213873"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1969512307",
+      "hc_lt_id_nortag": "921472538",
       "hc_lt_id_sptag": "656617210",
       "id_img": "KantaiCollection_898128_crop2608_-419818910",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicAnReKQrfJNUh9/R3U8wmogkrYe1TBrBa0d0SOfhpa15Vy4706IhQgSYlgwrgVRHU=",
@@ -172,6 +422,10 @@
       "lt_id_alb": [
         "1106267514",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "-734032835",
+        "-585136949"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -185,129 +439,552 @@
       ]
     },
     {
-      "hc_lt_id_alb": "-1969512307",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1786696077",
-      "id_img": "KantaiCollection_898128_crop2608_1651184035",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRH4BTWwQXlnMA1KroLL7Z36/aaHPMPY9gZICmKm8V0JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRH4BTWwQXlnMA1KroLL7ZGVo75gEIYW4MSP9egr8rCpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_alb": "508944778",
+      "hc_lt_id_nortag": "2032412795",
+      "hc_lt_id_sptag": "",
+      "id_img": "KantaiCollection_858355_crop2608_1796591783",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifFc9j06v00XNXKwmiEYdUZiDl+e/Qtk5Ou0ENAeYz0+ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifFc9j06v00XNXKwmiEYdUZmfSpom0QxGKZXsV8n83TFpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "1106267514",
-        "68811063"
+        "1106267514"
       ],
-      "lt_id_sptag": [
-        "-154622774",
-        "-1811357781",
-        "635632331",
-        "-2139213873"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1969512307",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-1521088421",
-      "id_img": "KantaiCollection_922429_crop2608_1638867569",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8xOL4PRsOyRgXbyDUx37/rlfTe/+V+/WJbm0AQCVf05Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8xOL4PRsOyRgXbyDUx37/yBY8hRQ9KPq/TvmgruwVc5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1106267514",
-        "68811063"
-      ],
-      "lt_id_sptag": [
-        "-154622774",
-        "1211227273",
-        "-326078627",
-        "71899412"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1969512307",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1456004689",
-      "id_img": "KantaiCollection_573317_crop2608_1729060965",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifndcufXFqkVOi+9lk4EElmB8BScDZLQ0NkI8GNj0t0GpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifndcufXFqkVOi+9lk4EElm85fQfrUE6V9P8NAreJir7JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1106267514",
-        "68811063"
-      ],
-      "lt_id_sptag": [
-        "-154622774",
-        "-1811357781",
-        "-2139213873",
-        "1211227273",
-        "-271320563",
-        "1439812287",
-        "1911583362"
+      "list_id_nortag": [
+        "992926694",
+        "-2145537794",
+        "893253068",
+        "-2147303164",
+        "-248557444",
+        "-740339025",
+        "343414197",
+        "633664536",
+        "-34828289",
+        "-1347703542",
+        "-760897528",
+        "-639153328",
+        "-804138274",
+        "14295588",
+        "111744401",
+        "91170385",
+        "1714038123",
+        "-1217088451",
+        "-1165866733",
+        "-1342550942",
+        "-1849617832",
+        "1059937532",
+        "1900111118",
+        "-644993569",
+        "539927702",
+        "-1554044996",
+        "-1751784817",
+        "-546919848",
+        "177119014",
+        "-425688928",
+        "164179843",
+        "1727598615",
+        "-1469948093",
+        "-1970106907",
+        "841831767",
+        "-1263922381",
+        "-734032835",
+        "1026909586",
+        "929591182",
+        "2021425292",
+        "1433324648",
+        "992088627",
+        "415936983",
+        "-449205224",
+        "-305372015",
+        "430051527",
+        "850139905",
+        "870890066",
+        "-585136949",
+        "-1571792831",
+        "-24980423",
+        "-478140046",
+        "691655616",
+        "1122027891",
+        "-1695362745",
+        "959489333",
+        "-1792960160",
+        "501625219",
+        "-271604829",
+        "1068110808",
+        "-475709487",
+        "2145051468",
+        "959628697",
+        "861294524",
+        "75585941",
+        "1774138532",
+        "-1781733127",
+        "504681304",
+        "-1452903374",
+        "-726914609",
+        "457631460",
+        "490422417",
+        "1592460047",
+        "1912769546",
+        "-1926958556",
+        "1960524762",
+        "327326873",
+        "-1853374821",
+        "1809691894",
+        "-693884471",
+        "-919812419",
+        "-1248462290",
+        "1539552293",
+        "1400233117",
+        "-833994315"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-726914609",
+      "name_nortag": "Abukuma Kancolle",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "164179843",
+      "name_nortag": "Admiral Kancolle",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "-760897528",
+      "name_nortag": "Akagi Kancolle",
+      "total_img": 38
+    },
+    {
+      "id_nortag": "-2147303164",
+      "name_nortag": "Akashi Kancolle",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "14295588",
+      "name_nortag": "Akatsuki KanColle",
+      "total_img": 132
+    },
+    {
+      "id_nortag": "1068110808",
+      "name_nortag": "Akebono Kancolle",
+      "total_img": 13
+    },
+    {
+      "id_nortag": "-1347703542",
+      "name_nortag": "Amagi Kancolle",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-34828289",
+      "name_nortag": "Amatsukaze Kancolle",
+      "total_img": 53
+    },
+    {
+      "id_nortag": "-305372015",
+      "name_nortag": "Asakaze Kancolle",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "1960524762",
+      "name_nortag": "Asashimo Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "430051527",
+      "name_nortag": "Bismarck Kancolle",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "327326873",
+      "name_nortag": "Choukai Kancolle",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "1026909586",
+      "name_nortag": "Commandant Teste Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "702924121",
+      "name_nortag": "Eye Patch",
+      "total_img": 38
+    },
+    {
+      "id_nortag": "841831767",
+      "name_nortag": "Fusou Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-1751784817",
+      "name_nortag": "Gangut Kancolle",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "68897849",
+      "name_nortag": "Glove",
+      "total_img": 164
+    },
+    {
+      "id_nortag": "1400233117",
+      "name_nortag": "Haguro Kancolle",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-1263922381",
+      "name_nortag": "Hamakaze Kancolle",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "457631460",
+      "name_nortag": "Harukaze Kancolle",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-478140046",
+      "name_nortag": "Haruna Kancolle",
+      "total_img": 57
+    },
+    {
+      "id_nortag": "-1853374821",
+      "name_nortag": "Hibiki Kancolle",
+      "total_img": 177
+    },
+    {
+      "id_nortag": "-248557444",
+      "name_nortag": "Hiei Kancolle",
+      "total_img": 43
+    },
+    {
+      "id_nortag": "959628697",
+      "name_nortag": "Hiryuu Kancolle",
+      "total_img": 18
+    },
+    {
+      "id_nortag": "-546919848",
+      "name_nortag": "Houshou Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "539927702",
+      "name_nortag": "I13 Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "343414197",
+      "name_nortag": "I14 Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "415936983",
+      "name_nortag": "I168 Kancolle",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "-639153328",
+      "name_nortag": "I19 Kancolle",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "75585941",
+      "name_nortag": "I401 Kancolle",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "959489333",
+      "name_nortag": "I58 Kancolle",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "-1452903374",
+      "name_nortag": "I8 Kancolle",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "1727598615",
+      "name_nortag": "Ikazuchi Kancolle",
+      "total_img": 119
+    },
+    {
+      "id_nortag": "1809691894",
+      "name_nortag": "Inazuma Kancolle",
+      "total_img": 126
+    },
+    {
+      "id_nortag": "-475709487",
+      "name_nortag": "Iowa Kancolle",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "111744401",
+      "name_nortag": "Kaga Kancolle",
+      "total_img": 50
+    },
+    {
+      "id_nortag": "-1248462290",
+      "name_nortag": "Kamikaze Kancolle",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "1592460047",
+      "name_nortag": "Kashima Kancolle",
+      "total_img": 20
+    },
+    {
+      "id_nortag": "-1781733127",
+      "name_nortag": "Katori Kancolle",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "691655616",
+      "name_nortag": "Kawakaze Kancolle",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "929591182",
+      "name_nortag": "Kirishima Kancolle",
+      "total_img": 42
+    },
+    {
+      "id_nortag": "-1695362745",
+      "name_nortag": "Kiso Kancolle",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "1774138532",
+      "name_nortag": "Kitakami Kancolle",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "-644993569",
+      "name_nortag": "Kiyoshimo Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-804138274",
+      "name_nortag": "Kongou Kancolle",
+      "total_img": 64
+    },
+    {
+      "id_nortag": "501625219",
+      "name_nortag": "Kuma Kancolle",
+      "total_img": 17
+    },
+    {
+      "id_nortag": "-1342550942",
+      "name_nortag": "Kumano Kancolle",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "1539552293",
+      "name_nortag": "Maya Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-1926958556",
+      "name_nortag": "Murasame Kancolle",
+      "total_img": 18
+    },
+    {
+      "id_nortag": "-1469948093",
+      "name_nortag": "Musashi Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-1165866733",
+      "name_nortag": "Mutsu Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-1970106907",
+      "name_nortag": "Naganami Kancolle",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "-24980423",
+      "name_nortag": "Nagato Kancolle",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "633664536",
+      "name_nortag": "Naka Kancolle",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "-1554044996",
+      "name_nortag": "Natori Kancolle",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "1433324648",
+      "name_nortag": "Oboro Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-449205224",
+      "name_nortag": "Ooi Kancolle",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "-1792960160",
+      "name_nortag": "Ooyodo Kancolle",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "1900111118",
+      "name_nortag": "Prinz Eugen Kancolle",
+      "total_img": 13
+    },
+    {
+      "id_nortag": "-693884471",
+      "name_nortag": "Ro500 KanColle",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "504681304",
+      "name_nortag": "Ryuujou Kancolle",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "-919812419",
+      "name_nortag": "Sazanami Kancolle",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "490422417",
+      "name_nortag": "Sendai Kancolle",
+      "total_img": 17
+    },
+    {
+      "id_nortag": "893253068",
+      "name_nortag": "Shigure Kancolle",
+      "total_img": 53
+    },
+    {
+      "id_nortag": "-1849617832",
+      "name_nortag": "Shimakaze Kancolle",
+      "total_img": 35
+    },
+    {
+      "id_nortag": "992926694",
+      "name_nortag": "Shoukaku Kancolle",
+      "total_img": 29
+    },
+    {
+      "id_nortag": "-1571792831",
+      "name_nortag": "Souryuu Kancolle",
+      "total_img": 16
+    },
+    {
+      "id_nortag": "1059937532",
+      "name_nortag": "Suzuya Kancolle",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "80307677",
+      "name_nortag": "Sword",
+      "total_img": 198
+    },
+    {
+      "id_nortag": "-833994315",
+      "name_nortag": "Takao Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-425688928",
+      "name_nortag": "Tama Kancolle",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "-585136949",
+      "name_nortag": "Tatsuta Kancolle",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-734032835",
+      "name_nortag": "Tenryuu Kancolle",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "-271604829",
+      "name_nortag": "Tokitsukaze Kancolle",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "850139905",
+      "name_nortag": "Unryuu Kancolle",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "861294524",
+      "name_nortag": "Urakaze Kancolle",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "91170385",
+      "name_nortag": "Ushio Kancolle",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "2021425292",
+      "name_nortag": "Warspite KanColle",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-2145537794",
+      "name_nortag": "Yahagi Kancolle",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "2145051468",
+      "name_nortag": "Yamashiro Kancolle",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "1912769546",
+      "name_nortag": "Yamato Kancolle",
+      "total_img": 22
+    },
+    {
+      "id_nortag": "177119014",
+      "name_nortag": "Yukikaze Kancolle",
+      "total_img": 24
+    },
+    {
+      "id_nortag": "870890066",
+      "name_nortag": "Yuubari Kancolle",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "992088627",
+      "name_nortag": "Yuudachi Kancolle",
+      "total_img": 45
+    },
+    {
+      "id_nortag": "-1217088451",
+      "name_nortag": "Z1 Leberecht Maass Kancolle",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-740339025",
+      "name_nortag": "Z3 Max Schultz Kancolle",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "1714038123",
+      "name_nortag": "Zara Kancolle",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "1122027891",
+      "name_nortag": "Zuikaku Kancolle",
+      "total_img": 30
+    }
+  ],
   "lt_sptag": [
-    {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
-    },
-    {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
-      "id_sptag": "635632331",
-      "key_sptag": "isGirlEyesPinkAnime",
-      "name_sptag": "Girls Eyes Pink",
-      "total": 1874
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
-    },
-    {
-      "id_sptag": "1211227273",
-      "key_sptag": "isGirlEyesYellowAnime",
-      "name_sptag": "Girls Eyes Yellow",
-      "total": 6605
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "1043155746",
-      "key_sptag": "isGirlEyesSilvertAnime",
-      "name_sptag": "Girls Eyes Silver",
-      "total": 1109
-    },
-    {
-      "id_sptag": "-369654561",
-      "key_sptag": "isGirlDarkAnime",
-      "name_sptag": "Girls Dark",
-      "total": 3468
-    },
     {
       "id_sptag": "-1436512555",
       "key_sptag": "isDarkBlack",
       "name_sptag": "Dark Black",
       "total": 4051
-    },
-    {
-      "id_sptag": "-564636969",
-      "key_sptag": "isGirlSharpCanineToothAnime",
-      "name_sptag": "Girls Sharp Canine Tooth",
-      "total": 3202
-    },
-    {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
     },
     {
       "id_sptag": "1600730941",
@@ -316,16 +993,10 @@
       "total": 31431
     },
     {
-      "id_sptag": "71899412",
-      "key_sptag": "isGirlHairVioletAnime",
-      "name_sptag": "Girls Hair Violet",
-      "total": 2650
-    },
-    {
-      "id_sptag": "-271320563",
-      "key_sptag": "isGirlFaceMasksAnime",
-      "name_sptag": "Girls Face Masks",
-      "total": 1618
+      "id_sptag": "-369654561",
+      "key_sptag": "isGirlDarkAnime",
+      "name_sptag": "Girls Dark",
+      "total": 3468
     },
     {
       "id_sptag": "-1782893951",
@@ -334,16 +1005,40 @@
       "total": 9376
     },
     {
+      "id_sptag": "635632331",
+      "key_sptag": "isGirlEyesPinkAnime",
+      "name_sptag": "Girls Eyes Pink",
+      "total": 1874
+    },
+    {
+      "id_sptag": "1043155746",
+      "key_sptag": "isGirlEyesSilvertAnime",
+      "name_sptag": "Girls Eyes Silver",
+      "total": 1109
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-271320563",
+      "key_sptag": "isGirlFaceMasksAnime",
+      "name_sptag": "Girls Face Masks",
+      "total": 1618
+    },
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
       "id_sptag": "-143534545",
       "key_sptag": "isGirlHairBlueAnime",
       "name_sptag": "Girls Hair Blue",
       "total": 9528
-    },
-    {
-      "id_sptag": "1439506876",
-      "key_sptag": "isGirlScarfAnime",
-      "name_sptag": "Girls Scarf",
-      "total": 3306
     },
     {
       "id_sptag": "-143528947",
@@ -352,10 +1047,34 @@
       "total": 13760
     },
     {
-      "id_sptag": "-1743477818",
-      "key_sptag": "isGirlWaterRainAnime",
-      "name_sptag": "Girls Water Rain",
-      "total": 2954
+      "id_sptag": "71899412",
+      "key_sptag": "isGirlHairVioletAnime",
+      "name_sptag": "Girls Hair Violet",
+      "total": 2650
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1439506876",
+      "key_sptag": "isGirlScarfAnime",
+      "name_sptag": "Girls Scarf",
+      "total": 3306
+    },
+    {
+      "id_sptag": "-564636969",
+      "key_sptag": "isGirlSharpCanineToothAnime",
+      "name_sptag": "Girls Sharp Canine Tooth",
+      "total": 3202
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
     },
     {
       "id_sptag": "1439812287",
@@ -364,10 +1083,28 @@
       "total": 24284
     },
     {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-1743477818",
+      "key_sptag": "isGirlWaterRainAnime",
+      "name_sptag": "Girls Water Rain",
+      "total": 2954
     }
   ]
 }

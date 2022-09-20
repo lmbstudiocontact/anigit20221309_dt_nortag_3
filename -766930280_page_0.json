@@ -4,15 +4,15 @@
   "name_nortag": "Zorome Darling in the FranXX",
   "total_img": 4,
   "total_page": 0,
-  "hc_lt_alb": "-322248476",
-  "hc_lt_data_img": "-1610359224",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1034998473",
+  "hc_lt_alb": "-927112604",
+  "hc_lt_data_img": "560374785",
+  "hc_lt_nortag": "1639895531",
+  "hc_lt_sptag": "926809097",
   "lt_alb": [
     {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
     },
     {
       "id_alb": "-939806514",
@@ -20,15 +20,15 @@
       "total_img": 241
     },
     {
-      "id_alb": "66988",
-      "name_alb": "Boy",
-      "total_img": 8592
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-1207521930",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "2085925921",
       "hc_lt_id_sptag": "1201095374",
       "id_img": "DarlingintheFranXX_901450_crop2608_-1412227526",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+liA73kSexK/RdD6WUrswiCJ0IoaG0VklWitQbZ/h6ZVy4706IhQgSYlgwrgVRHU=",
@@ -36,6 +36,19 @@
       "lt_id_alb": [
         "68811063",
         "-939806514"
+      ],
+      "list_id_nortag": [
+        "-766930280",
+        "-419138107",
+        "-1177219764",
+        "-152903087",
+        "610701954",
+        "-357106184",
+        "-786593741",
+        "2134828655",
+        "608341835",
+        "-367417692",
+        "132917910"
       ],
       "lt_id_sptag": [
         "-1811357781",
@@ -48,7 +61,7 @@
     },
     {
       "hc_lt_id_alb": "785075284",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "180442702",
       "hc_lt_id_sptag": "862791854",
       "id_img": "DarlingintheFranXX_908901_crop2608_2146435664",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqVEPyfyuxaOGAEDKzHNQbPN20quEKu6/oO7QLrntnpJVy4706IhQgSYlgwrgVRHU=",
@@ -57,6 +70,13 @@
         "66988",
         "-939806514"
       ],
+      "list_id_nortag": [
+        "-766930280",
+        "-1177219764",
+        "-357106184",
+        "-786593741",
+        "608341835"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
@@ -64,7 +84,7 @@
     },
     {
       "hc_lt_id_alb": "785075284",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1541470846",
       "hc_lt_id_sptag": "862791854",
       "id_img": "DarlingintheFranXX_916525_crop2608_-271161692",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifPV/17Yc9KqbsJkazRvBDHbzM/L19J4UlOe1UkR0WKopVy4706IhQgSYlgwrgVRHU=",
@@ -73,6 +93,11 @@
         "66988",
         "-939806514"
       ],
+      "list_id_nortag": [
+        "-766930280",
+        "-1177219764",
+        "-786593741"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
@@ -80,7 +105,7 @@
     },
     {
       "hc_lt_id_alb": "785075284",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1541470846",
       "hc_lt_id_sptag": "862791854",
       "id_img": "DarlingintheFranXX_916525_crop2608_1964590497",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTZI9ZnUjFMwAAJvZ2SuxsIpOkvClcXgRocY0nkOdrf5Vy4706IhQgSYlgwrgVRHU=",
@@ -89,36 +114,80 @@
         "66988",
         "-939806514"
       ],
+      "list_id_nortag": [
+        "-766930280",
+        "-1177219764",
+        "-786593741"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-357106184",
+      "name_nortag": "Futoshi Darling in the FranXX",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "-786593741",
+      "name_nortag": "Goro Darling in the FranXX",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "-1177219764",
+      "name_nortag": "Hiro Darling in the FranXX",
+      "total_img": 43
+    },
+    {
+      "id_nortag": "-152903087",
+      "name_nortag": "Ichigo Darling in the FranXX",
+      "total_img": 48
+    },
+    {
+      "id_nortag": "132917910",
+      "name_nortag": "Ikuno Darling in the FranxXX",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "-419138107",
+      "name_nortag": "Kokoro Darling in the FranxXX",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "-367417692",
+      "name_nortag": "Miku Darling in the FranxXX",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "608341835",
+      "name_nortag": "Mitsuru Darling in the FranXX",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "2134828655",
+      "name_nortag": "Strelizia Darling in the FranXX",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "610701954",
+      "name_nortag": "Zero Two Darling in the FranXX",
+      "total_img": 206
+    },
+    {
+      "id_nortag": "-766930280",
+      "name_nortag": "Zorome Darling in the FranXX",
+      "total_img": 4
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
-      "id_sptag": "1429721863",
-      "key_sptag": "isGirlHornsAnime",
-      "name_sptag": "Girls Horns",
-      "total": 2031
-    },
-    {
-      "id_sptag": "-143120565",
-      "key_sptag": "isGirlHairPinkAnime",
-      "name_sptag": "Girls Hair Pink",
-      "total": 5690
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
+      "id_sptag": "1736318786",
+      "key_sptag": "isBoySad",
+      "name_sptag": "Boy Sad",
+      "total": 1551
     },
     {
       "id_sptag": "1600730941",
@@ -133,16 +202,34 @@
       "total": 25656
     },
     {
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
+    },
+    {
+      "id_sptag": "1429721863",
+      "key_sptag": "isGirlHornsAnime",
+      "name_sptag": "Girls Horns",
+      "total": 2031
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
       "id_sptag": "82870",
       "key_sptag": "isSad",
       "name_sptag": "Sad",
       "total": 12057
-    },
-    {
-      "id_sptag": "1736318786",
-      "key_sptag": "isBoySad",
-      "name_sptag": "Boy Sad",
-      "total": 1551
     }
   ]
 }

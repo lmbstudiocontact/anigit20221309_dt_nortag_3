@@ -5,8 +5,8 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "2112454928",
-  "hc_lt_data_img": "-781116924",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "-1400083464",
+  "hc_lt_nortag": "188777960",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -18,36 +18,84 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "223001737",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "770632933",
       "hc_lt_id_sptag": "",
       "id_img": "NeonGenesisEvangelion_846746_crop2608_-1214528647",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifY/yUZ19wQuMzerwtADAIDIieoFjowgf3u1L8LIqhKUZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifY/yUZ19wQuMzerwtADAIDDv4c295EoKGut44j9n7U2pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1889453114"
+      ],
+      "list_id_nortag": [
+        "-252268361",
+        "-1801101198",
+        "-1401979925",
+        "552327022",
+        "-746251249"
       ]
     },
     {
       "hc_lt_id_alb": "223001737",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "770632933",
       "hc_lt_id_sptag": "",
       "id_img": "NeonGenesisEvangelion_846746_crop2608_-1509981332",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4KFHsvKBojG5fu4aLK/G2W7nHcGoYQK+Rf9WA8oKtdZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4KFHsvKBojG5fu4aLK/G2XrbXCm07bDAIs+HHzWDHoJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1889453114"
+      ],
+      "list_id_nortag": [
+        "-252268361",
+        "-1801101198",
+        "-1401979925",
+        "552327022",
+        "-746251249"
       ]
     },
     {
       "hc_lt_id_alb": "223001737",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "770632933",
       "hc_lt_id_sptag": "",
       "id_img": "NeonGenesisEvangelion_846746_crop2608_-1740503002",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSMshUT6L0RPDzAwSvkjkcE+koLxPotO02d50rFcW0J5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSMshUT6L0RPDzAwSvkjkc/pdfdAoBFoaLSQTncMz6lZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1889453114"
+      ],
+      "list_id_nortag": [
+        "-252268361",
+        "-1801101198",
+        "-1401979925",
+        "552327022",
+        "-746251249"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-252268361",
+      "name_nortag": "Asuka Langley Sohryu",
+      "total_img": 68
+    },
+    {
+      "id_nortag": "-1801101198",
+      "name_nortag": "Kaworu Nagisa",
+      "total_img": 16
+    },
+    {
+      "id_nortag": "552327022",
+      "name_nortag": "Rei Ayanami",
+      "total_img": 43
+    },
+    {
+      "id_nortag": "-746251249",
+      "name_nortag": "Shinji Ikari",
+      "total_img": 24
+    },
+    {
+      "id_nortag": "-1401979925",
+      "name_nortag": "Toji Suzuhara",
+      "total_img": 3
     }
   ]
 }

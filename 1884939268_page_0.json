@@ -4,16 +4,11 @@
   "name_nortag": "Tomoya Aki",
   "total_img": 7,
   "total_page": 0,
-  "hc_lt_alb": "-714639793",
-  "hc_lt_data_img": "-259824631",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1556906558",
+  "hc_lt_alb": "927321727",
+  "hc_lt_data_img": "562327780",
+  "hc_lt_nortag": "2138164340",
+  "hc_lt_sptag": "17415182",
   "lt_alb": [
-    {
-      "id_alb": "-222829433",
-      "name_alb": "Saekano How to Raise a Boring Girlfriend",
-      "total_img": 103
-    },
     {
       "id_alb": "2024260576",
       "name_alb": "Couple",
@@ -23,24 +18,17 @@
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-222829433",
+      "name_alb": "Saekano How to Raise a Boring Girlfriend",
+      "total_img": 103
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "-249791409",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_679169_crop2608_-1371044540",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbSN7wBbrQziAsn4E7BDoQQ4voFwiXd/+zebpXTRu4vpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbSN7wBbrQziAsn4E7BDoQby2IJBpGiUiQhH8KmHvuIpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-222829433",
-        "2024260576"
-      ]
-    },
-    {
       "hc_lt_id_alb": "-803708572",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1536573295",
       "hc_lt_id_sptag": "599900590",
       "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_679169_crop2608_-1938165737",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg3VnP66qZwnPcjqPnPWdsEt96JVJKlpUEFQ2tHULFy5Vy4706IhQgSYlgwrgVRHU=",
@@ -48,6 +36,17 @@
       "lt_id_alb": [
         "68811063",
         "-222829433"
+      ],
+      "list_id_nortag": [
+        "-2041567473",
+        "-1524664622",
+        "1884939268",
+        "1773321482",
+        "-929432494",
+        "1992679946",
+        "602850402",
+        "-303857400",
+        "64285920"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -62,7 +61,7 @@
     },
     {
       "hc_lt_id_alb": "-803708572",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1536573295",
       "hc_lt_id_sptag": "-1583018877",
       "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_679169_crop2608_1827072654",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAo7Cq7errTMa7g76bWmN8+JsA37RCuCgRzm8VoEhSeZVy4706IhQgSYlgwrgVRHU=",
@@ -70,6 +69,17 @@
       "lt_id_alb": [
         "68811063",
         "-222829433"
+      ],
+      "list_id_nortag": [
+        "-2041567473",
+        "-1524664622",
+        "1884939268",
+        "1773321482",
+        "-929432494",
+        "1992679946",
+        "602850402",
+        "-303857400",
+        "64285920"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -81,20 +91,8 @@
       ]
     },
     {
-      "hc_lt_id_alb": "-249791409",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_679173_crop2608_1958012317",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeFSDB+fErqpxTekAaiZtVfW4+mGDHZ00ftwNGZxZ585Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeFSDB+fErqpxTekAaiZtV0mFvqja7QfScnNj0kX0SaZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-222829433",
-        "2024260576"
-      ]
-    },
-    {
       "hc_lt_id_alb": "-803708572",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1222281552",
       "hc_lt_id_sptag": "498770924",
       "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_746758_crop2608_-2017297431",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieS+Dz88V8x75cm4GN3j5vq+xkmHCdRqIQXHtkWFESfRpVy4706IhQgSYlgwrgVRHU=",
@@ -102,6 +100,14 @@
       "lt_id_alb": [
         "68811063",
         "-222829433"
+      ],
+      "list_id_nortag": [
+        "-2041567473",
+        "837276596",
+        "382981519",
+        "-1524664622",
+        "1884939268",
+        "-929432494"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -115,7 +121,53 @@
     },
     {
       "hc_lt_id_alb": "-803708572",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1222281552",
+      "hc_lt_id_sptag": "-1944498915",
+      "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_746758_crop2608_85740540",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8IXq+k+Xu24ZxHPlqQL0RMfoA0wTr/b2H3Ih6FIt5+ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8IXq+k+Xu24ZxHPlqQL0RweNgkQEzqE03g19Ble88ZJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-222829433"
+      ],
+      "list_id_nortag": [
+        "-2041567473",
+        "837276596",
+        "382981519",
+        "-1524664622",
+        "1884939268",
+        "-929432494"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "-2139213873",
+        "1440489992",
+        "71899412",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-249791409",
+      "hc_lt_id_nortag": "1775610681",
+      "hc_lt_id_sptag": "",
+      "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_679173_crop2608_1958012317",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeFSDB+fErqpxTekAaiZtVfW4+mGDHZ00ftwNGZxZ585Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeFSDB+fErqpxTekAaiZtV0mFvqja7QfScnNj0kX0SaZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-222829433",
+        "2024260576"
+      ],
+      "list_id_nortag": [
+        "-2041567473",
+        "1884939268",
+        "1773321482",
+        "2107205243"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-803708572",
+      "hc_lt_id_nortag": "-1222281552",
       "hc_lt_id_sptag": "1695470337",
       "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_746758_crop2608_143657801",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepAjKsQdzZGm8BDUVKuyFsauDWfYa9y0CU/SWuSa0MlZVy4706IhQgSYlgwrgVRHU=",
@@ -123,6 +175,14 @@
       "lt_id_alb": [
         "68811063",
         "-222829433"
+      ],
+      "list_id_nortag": [
+        "-2041567473",
+        "837276596",
+        "382981519",
+        "-1524664622",
+        "1884939268",
+        "-929432494"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -133,68 +193,97 @@
       ]
     },
     {
-      "hc_lt_id_alb": "-803708572",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-1944498915",
-      "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_746758_crop2608_85740540",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8IXq+k+Xu24ZxHPlqQL0RMfoA0wTr/b2H3Ih6FIt5+ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8IXq+k+Xu24ZxHPlqQL0RweNgkQEzqE03g19Ble88ZJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_alb": "-249791409",
+      "hc_lt_id_nortag": "1536573295",
+      "hc_lt_id_sptag": "",
+      "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_679169_crop2608_-1371044540",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbSN7wBbrQziAsn4E7BDoQQ4voFwiXd/+zebpXTRu4vpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbSN7wBbrQziAsn4E7BDoQby2IJBpGiUiQhH8KmHvuIpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "68811063",
-        "-222829433"
+        "-222829433",
+        "2024260576"
       ],
-      "lt_id_sptag": [
-        "891390002",
-        "-2139213873",
-        "1440489992",
-        "71899412",
-        "1911583362",
-        "635218351"
+      "list_id_nortag": [
+        "-2041567473",
+        "-1524664622",
+        "1884939268",
+        "1773321482",
+        "-929432494",
+        "1992679946",
+        "602850402",
+        "-303857400",
+        "64285920"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1992679946",
+      "name_nortag": "Blonde",
+      "total_img": 908
+    },
+    {
+      "id_nortag": "64285920",
+      "name_nortag": "Blush",
+      "total_img": 893
+    },
+    {
+      "id_nortag": "-929432494",
+      "name_nortag": "Eriri Spencer Sawamura",
+      "total_img": 50
+    },
+    {
+      "id_nortag": "2107205243",
+      "name_nortag": "Flower",
+      "total_img": 497
+    },
+    {
+      "id_nortag": "1773321482",
+      "name_nortag": "Glasses",
+      "total_img": 150
+    },
+    {
+      "id_nortag": "382981519",
+      "name_nortag": "Izumi Hashima",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "-2041567473",
+      "name_nortag": "Megumi Kato",
+      "total_img": 66
+    },
+    {
+      "id_nortag": "837276596",
+      "name_nortag": "Michiru Hyodo",
+      "total_img": 13
+    },
+    {
+      "id_nortag": "-303857400",
+      "name_nortag": "School Uniform",
+      "total_img": 467
+    },
+    {
+      "id_nortag": "1884939268",
+      "name_nortag": "Tomoya Aki",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "602850402",
+      "name_nortag": "Twinitails",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "-1524664622",
+      "name_nortag": "Utaha Kasumigaoka",
+      "total_img": 45
+    }
+  ],
   "lt_sptag": [
-    {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
-    },
-    {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
-    },
-    {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
-    },
-    {
-      "id_sptag": "126637389",
-      "key_sptag": "isGirlSadAnime",
-      "name_sptag": "Girls Sad",
-      "total": 10506
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
     {
       "id_sptag": "1600730941",
       "key_sptag": "isGirlCuteCool",
       "name_sptag": "Girls Cute Cool",
       "total": 31431
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
     },
     {
       "id_sptag": "635218351",
@@ -209,10 +298,10 @@
       "total": 9376
     },
     {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
     },
     {
       "id_sptag": "-143528947",
@@ -227,10 +316,28 @@
       "total": 3081
     },
     {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
+      "id_sptag": "71899412",
+      "key_sptag": "isGirlHairVioletAnime",
+      "name_sptag": "Girls Hair Violet",
+      "total": 2650
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "126637389",
+      "key_sptag": "isGirlSadAnime",
+      "name_sptag": "Girls Sad",
+      "total": 10506
     },
     {
       "id_sptag": "-2139213873",
@@ -239,16 +346,34 @@
       "total": 23769
     },
     {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
       "id_sptag": "1440489992",
       "key_sptag": "isGirlTearsAnime",
       "name_sptag": "Girls Tears",
       "total": 1511
     },
     {
-      "id_sptag": "71899412",
-      "key_sptag": "isGirlHairVioletAnime",
-      "name_sptag": "Girls Hair Violet",
-      "total": 2650
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     }
   ]
 }

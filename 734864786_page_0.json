@@ -4,20 +4,20 @@
   "name_nortag": "Toothbrush",
   "total_img": 3,
   "total_page": 0,
-  "hc_lt_alb": "-234923393",
-  "hc_lt_data_img": "354983089",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1049929179",
+  "hc_lt_alb": "1517403039",
+  "hc_lt_data_img": "-264814177",
+  "hc_lt_nortag": "641431248",
+  "hc_lt_sptag": "2088750961",
   "lt_alb": [
-    {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
     {
       "id_alb": "-939806514",
       "name_alb": "Darling in the FranXX",
       "total_img": 241
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     },
     {
       "id_alb": "109656520",
@@ -28,7 +28,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-1207521930",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1024410685",
       "hc_lt_id_sptag": "1107231169",
       "id_img": "DarlingintheFranXX_914869_crop2608_49251030",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2UVEziXAymTC/MySI2nBcVCMtF7wWW4GcgvP6MrYrw5Vy4706IhQgSYlgwrgVRHU=",
@@ -36,6 +36,10 @@
       "lt_id_alb": [
         "68811063",
         "-939806514"
+      ],
+      "list_id_nortag": [
+        "610701954",
+        "734864786"
       ],
       "lt_id_sptag": [
         "-564636969",
@@ -47,7 +51,7 @@
     },
     {
       "hc_lt_id_alb": "-365719360",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1666836475",
       "hc_lt_id_sptag": "1744878010",
       "id_img": "Original_847753_crop2608_-424730952",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicNOyl76NvC2BmcdTU7Intnol6I1OMXcS9F5u35SUtrepVy4706IhQgSYlgwrgVRHU=",
@@ -55,6 +59,11 @@
       "lt_id_alb": [
         "68811063",
         "109656520"
+      ],
+      "list_id_nortag": [
+        "81000163",
+        "734864786",
+        "64285920"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -64,7 +73,7 @@
     },
     {
       "hc_lt_id_alb": "-365719360",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1666836475",
       "hc_lt_id_sptag": "-1969162658",
       "id_img": "Original_847753_crop2608_1837487706",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXj0L/nC64iFVlot7JBqOeK0mDbcnYb5qRHHgiPzJZQZVy4706IhQgSYlgwrgVRHU=",
@@ -73,6 +82,11 @@
         "68811063",
         "109656520"
       ],
+      "list_id_nortag": [
+        "81000163",
+        "734864786",
+        "64285920"
+      ],
       "lt_id_sptag": [
         "-326078627",
         "-143534545",
@@ -80,31 +94,29 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "64285920",
+      "name_nortag": "Blush",
+      "total_img": 893
+    },
+    {
+      "id_nortag": "734864786",
+      "name_nortag": "Toothbrush",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "81000163",
+      "name_nortag": "Towel",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "610701954",
+      "name_nortag": "Zero Two Darling in the FranXX",
+      "total_img": 206
+    }
+  ],
   "lt_sptag": [
-    {
-      "id_sptag": "-564636969",
-      "key_sptag": "isGirlSharpCanineToothAnime",
-      "name_sptag": "Girls Sharp Canine Tooth",
-      "total": 3202
-    },
-    {
-      "id_sptag": "1429721863",
-      "key_sptag": "isGirlHornsAnime",
-      "name_sptag": "Girls Horns",
-      "total": 2031
-    },
-    {
-      "id_sptag": "-143120565",
-      "key_sptag": "isGirlHairPinkAnime",
-      "name_sptag": "Girls Hair Pink",
-      "total": 5690
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
     {
       "id_sptag": "635218351",
       "key_sptag": "isGirlEyesBlueAnime",
@@ -122,6 +134,30 @@
       "key_sptag": "isGirlHairBlueAnime",
       "name_sptag": "Girls Hair Blue",
       "total": 9528
+    },
+    {
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
+    },
+    {
+      "id_sptag": "1429721863",
+      "key_sptag": "isGirlHornsAnime",
+      "name_sptag": "Girls Horns",
+      "total": 2031
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-564636969",
+      "key_sptag": "isGirlSharpCanineToothAnime",
+      "name_sptag": "Girls Sharp Canine Tooth",
+      "total": 3202
     }
   ]
 }

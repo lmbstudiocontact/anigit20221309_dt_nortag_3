@@ -4,11 +4,16 @@
   "name_nortag": "Xuan Ying",
   "total_img": 5,
   "total_page": 0,
-  "hc_lt_alb": "567726005",
-  "hc_lt_data_img": "-417159219",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-939216665",
+  "hc_lt_alb": "-2006349817",
+  "hc_lt_data_img": "706704460",
+  "hc_lt_nortag": "2035727387",
+  "hc_lt_sptag": "193661975",
   "lt_alb": [
+    {
+      "id_alb": "-892807948",
+      "name_alb": "Crossover",
+      "total_img": 505
+    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
@@ -18,38 +23,35 @@
       "id_alb": "115411257",
       "name_alb": "Sergestid Shrimp In TungKang",
       "total_img": 6
-    },
-    {
-      "id_alb": "-892807948",
-      "name_alb": "Crossover",
-      "total_img": 505
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "2060939423",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-568765599",
-      "id_img": "SergestidShrimpInTungKang_815799_crop2608_1668391747",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicm6Bk3u/gIGAwekSF1f9rNgb1pfbdw6cNme6jF0v8c6pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicm6Bk3u/gIGAwekSF1f9rNnfnT+kH6ImmJZxDpDoF0IZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "1057524951",
+      "hc_lt_id_sptag": "-56121031",
+      "id_img": "SergestidShrimpInTungKang_846554_crop2608_1671190050",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiido4F2muAl9JmUDSgvChVD5ub8srWJ0Ul3bb3lhRHgq6ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiido4F2muAl9JmUDSgvChVD5vsvDpUz2qTaAMbiKM8Gm1ZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "68811063",
         "115411257"
       ],
+      "list_id_nortag": [
+        "978202431"
+      ],
       "lt_id_sptag": [
-        "936615491",
         "-143120565",
+        "-1364967268",
         "-326078627",
         "1600730941",
         "1439812287",
-        "679383692",
         "1911583362"
       ]
     },
     {
       "hc_lt_id_alb": "2060939423",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1057524951",
       "hc_lt_id_sptag": "-851829696",
       "id_img": "SergestidShrimpInTungKang_836344_crop2608_1670264576",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXC3SpjBvsETvdtLB0z4OdBxhJ93O9NquIDCrdcf+0oJVy4706IhQgSYlgwrgVRHU=",
@@ -57,6 +59,9 @@
       "lt_id_alb": [
         "68811063",
         "115411257"
+      ],
+      "list_id_nortag": [
+        "978202431"
       ],
       "lt_id_sptag": [
         "154003721",
@@ -74,27 +79,7 @@
     },
     {
       "hc_lt_id_alb": "2060939423",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-56121031",
-      "id_img": "SergestidShrimpInTungKang_846554_crop2608_1671190050",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiido4F2muAl9JmUDSgvChVD5ub8srWJ0Ul3bb3lhRHgq6ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiido4F2muAl9JmUDSgvChVD5vsvDpUz2qTaAMbiKM8Gm1ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "115411257"
-      ],
-      "lt_id_sptag": [
-        "-143120565",
-        "-1364967268",
-        "-326078627",
-        "1600730941",
-        "1439812287",
-        "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "2060939423",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1057524951",
       "hc_lt_id_sptag": "1994864124",
       "id_img": "SergestidShrimpInTungKang_917881_crop2608_1697081402",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiftQGLxm/SLXbPsiZxVt7Wwur5sKVnn660vMFb2Z4sURpVy4706IhQgSYlgwrgVRHU=",
@@ -102,6 +87,9 @@
       "lt_id_alb": [
         "68811063",
         "115411257"
+      ],
+      "list_id_nortag": [
+        "978202431"
       ],
       "lt_id_sptag": [
         "936615491",
@@ -116,7 +104,7 @@
     },
     {
       "hc_lt_id_alb": "549335212",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1057524951",
       "hc_lt_id_sptag": "1904594883",
       "id_img": "Crossover_917122_crop2608_238236162",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlM1tQWukdZSU3f8jVZIaim/PjIFPLJmfh3KPh+iFQXpVy4706IhQgSYlgwrgVRHU=",
@@ -124,6 +112,9 @@
       "lt_id_alb": [
         "68811063",
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "978202431"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -137,27 +128,40 @@
         "1129122964",
         "1911583362"
       ]
+    },
+    {
+      "hc_lt_id_alb": "2060939423",
+      "hc_lt_id_nortag": "1057524951",
+      "hc_lt_id_sptag": "-568765599",
+      "id_img": "SergestidShrimpInTungKang_815799_crop2608_1668391747",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicm6Bk3u/gIGAwekSF1f9rNgb1pfbdw6cNme6jF0v8c6pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicm6Bk3u/gIGAwekSF1f9rNnfnT+kH6ImmJZxDpDoF0IZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "115411257"
+      ],
+      "list_id_nortag": [
+        "978202431"
+      ],
+      "lt_id_sptag": [
+        "936615491",
+        "-143120565",
+        "-326078627",
+        "1600730941",
+        "1439812287",
+        "679383692",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "978202431",
+      "name_nortag": "Xuan Ying",
+      "total_img": 5
     }
   ],
   "lt_sptag": [
-    {
-      "id_sptag": "936615491",
-      "key_sptag": "isGirlEyesOrangeAnime",
-      "name_sptag": "Girls Eyes Orange",
-      "total": 3828
-    },
-    {
-      "id_sptag": "-143120565",
-      "key_sptag": "isGirlHairPinkAnime",
-      "name_sptag": "Girls Hair Pink",
-      "total": 5690
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
     {
       "id_sptag": "1600730941",
       "key_sptag": "isGirlCuteCool",
@@ -165,34 +169,10 @@
       "total": 31431
     },
     {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "679383692",
-      "key_sptag": "isGirlKimonoAnime",
-      "name_sptag": "Girls Kimono Yukata Cheongsam",
-      "total": 7942
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
+      "id_sptag": "936615491",
+      "key_sptag": "isGirlEyesOrangeAnime",
+      "name_sptag": "Girls Eyes Orange",
+      "total": 3828
     },
     {
       "id_sptag": "-1364967268",
@@ -201,22 +181,10 @@
       "total": 12697
     },
     {
-      "id_sptag": "-1743477818",
-      "key_sptag": "isGirlWaterRainAnime",
-      "name_sptag": "Girls Water Rain",
-      "total": 2954
-    },
-    {
       "id_sptag": "1129122964",
       "key_sptag": "isGirlEyesVioletAnime",
       "name_sptag": "Girls Eyes Violet",
       "total": 6410
-    },
-    {
-      "id_sptag": "-143534545",
-      "key_sptag": "isGirlHairBlueAnime",
-      "name_sptag": "Girls Hair Blue",
-      "total": 9528
     },
     {
       "id_sptag": "-1786946560",
@@ -225,10 +193,58 @@
       "total": 1686
     },
     {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
+    },
+    {
       "id_sptag": "-14067806",
       "key_sptag": "isGirlHairSilverAnime",
       "name_sptag": "Girls Hair Silver",
       "total": 16300
+    },
+    {
+      "id_sptag": "-135339788",
+      "key_sptag": "isGirlHairWhiteAnime",
+      "name_sptag": "Girls Hair White",
+      "total": 8666
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "679383692",
+      "key_sptag": "isGirlKimonoAnime",
+      "name_sptag": "Girls Kimono Yukata Cheongsam",
+      "total": 7942
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
     },
     {
       "id_sptag": "891390002",
@@ -237,10 +253,16 @@
       "total": 16308
     },
     {
-      "id_sptag": "-135339788",
-      "key_sptag": "isGirlHairWhiteAnime",
-      "name_sptag": "Girls Hair White",
-      "total": 8666
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1743477818",
+      "key_sptag": "isGirlWaterRainAnime",
+      "name_sptag": "Girls Water Rain",
+      "total": 2954
     }
   ]
 }

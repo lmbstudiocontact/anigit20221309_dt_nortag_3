@@ -5,8 +5,8 @@
   "total_img": 6,
   "total_page": 0,
   "hc_lt_alb": "-1202766380",
-  "hc_lt_data_img": "-537725191",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "1251731143",
+  "hc_lt_nortag": "-2051525557",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -22,70 +22,248 @@
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_740539_crop2608_-1387979795",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAqoPcu8UgLcwc7FgwtZuWiE7wXCO8iG47v05gEA2UQpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAqoPcu8UgLcwc7FgwtZuWD+ArlY2U2UnMoOeLx78q+ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_740539_crop2608_2041544645",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHJb0b82FG/Y447n0fq3B8GmRrup7z8a1Sriwkli7dwJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHJb0b82FG/Y447n0fq3B8DnPnazsH8VAa39teGfU82pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_740539_crop2608_451974872",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHfbw7dv/e+3Fj0kZxZdFGUg1QKNvBpysFiRUuHnXoqZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHfbw7dv/e+3Fj0kZxZdFGJUg/RJDKYKyIbPfv4/M2LZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-892807948"
-      ]
-    },
-    {
       "hc_lt_id_alb": "-831277070",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Naruto_644183_crop2608_16543516",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidi0R+RY+9mC06wntWlX2JEfICMyV4zT5ei6k+ZhRda25Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidi0R+RY+9mC06wntWlX2JEljAK5xwOcNiYz7mAYLvowJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1968799663"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-831277070",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1808652642",
       "hc_lt_id_sptag": "",
       "id_img": "Naruto_665369_crop2608_-165825055",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGuCLdvpTuVhRT7wmJT6SpaQuZzpwIVyBaRYSG8sSoW5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGuCLdvpTuVhRT7wmJT6Spi/js8wpWWnOJP9LTzG4+4ZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1968799663"
+      ],
+      "list_id_nortag": [
+        "1575701767",
+        "-967470465",
+        "-1493578597",
+        "-2019930864"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "111887993",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_740539_crop2608_2041544645",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHJb0b82FG/Y447n0fq3B8GmRrup7z8a1Sriwkli7dwJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHJb0b82FG/Y447n0fq3B8DnPnazsH8VAa39teGfU82pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "1575701767",
+        "2079074963",
+        "570659319",
+        "1633518811",
+        "1339700914",
+        "-1643022489",
+        "-555801512",
+        "-1866441661",
+        "154658675"
       ]
     },
     {
       "hc_lt_id_alb": "-831277070",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-585618384",
       "hc_lt_id_sptag": "",
       "id_img": "Naruto_735708_crop2608_337723782",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemhpO+tN+22PNVoCBCayua4GMrm/yvwFC1LeyEkD6nzZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemhpO+tN+22PNVoCBCayuaMy0Sw1RXU/cswUODyodX9pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1968799663"
+      ],
+      "list_id_nortag": [
+        "1837763930",
+        "1575701767",
+        "-1185956769",
+        "-1863649978",
+        "-1076553618",
+        "-23468393",
+        "-285202530",
+        "1869358694",
+        "-386600639",
+        "-877629053",
+        "-1493578597",
+        "154658675",
+        "-1611763306"
       ]
+    },
+    {
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "111887993",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_740539_crop2608_451974872",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHfbw7dv/e+3Fj0kZxZdFGUg1QKNvBpysFiRUuHnXoqZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHfbw7dv/e+3Fj0kZxZdFGJUg/RJDKYKyIbPfv4/M2LZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "1575701767",
+        "2079074963",
+        "570659319",
+        "1633518811",
+        "1339700914",
+        "-1643022489",
+        "-555801512",
+        "-1866441661",
+        "154658675"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-831277070",
+      "hc_lt_id_nortag": "-1919143840",
+      "hc_lt_id_sptag": "",
+      "id_img": "Naruto_644183_crop2608_16543516",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidi0R+RY+9mC06wntWlX2JEfICMyV4zT5ei6k+ZhRda25Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidi0R+RY+9mC06wntWlX2JEljAK5xwOcNiYz7mAYLvowJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1968799663"
+      ],
+      "list_id_nortag": [
+        "1575701767",
+        "-148568472",
+        "-967470465",
+        "-1493578597",
+        "-2019930864"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "111887993",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_740539_crop2608_-1387979795",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAqoPcu8UgLcwc7FgwtZuWiE7wXCO8iG47v05gEA2UQpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAqoPcu8UgLcwc7FgwtZuWD+ArlY2U2UnMoOeLx78q+ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "1575701767",
+        "2079074963",
+        "570659319",
+        "1633518811",
+        "1339700914",
+        "-1643022489",
+        "-555801512",
+        "-1866441661",
+        "154658675"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-2019930864",
+      "name_nortag": "A Naruto",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "1633518811",
+      "name_nortag": "Franky One Piece",
+      "total_img": 45
+    },
+    {
+      "id_nortag": "-1493578597",
+      "name_nortag": "Gaara Naruto",
+      "total_img": 40
+    },
+    {
+      "id_nortag": "-1185956769",
+      "name_nortag": "Hinata Hyuga",
+      "total_img": 54
+    },
+    {
+      "id_nortag": "1837763930",
+      "name_nortag": "Itachi Uchiha",
+      "total_img": 58
+    },
+    {
+      "id_nortag": "-1076553618",
+      "name_nortag": "Jiraiya Naruto",
+      "total_img": 20
+    },
+    {
+      "id_nortag": "-1863649978",
+      "name_nortag": "Kabuto Yakushi",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-555801512",
+      "name_nortag": "Kakashi Hatake",
+      "total_img": 99
+    },
+    {
+      "id_nortag": "-877629053",
+      "name_nortag": "Kyubi Naruto",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "1339700914",
+      "name_nortag": "L Death Note",
+      "total_img": 24
+    },
+    {
+      "id_nortag": "-148568472",
+      "name_nortag": "Madara Uchiha",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "-967470465",
+      "name_nortag": "Mei Terumi",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "1869358694",
+      "name_nortag": "Minato Namikaze",
+      "total_img": 43
+    },
+    {
+      "id_nortag": "-1643022489",
+      "name_nortag": "Monkey D Luffy",
+      "total_img": 156
+    },
+    {
+      "id_nortag": "-1866441661",
+      "name_nortag": "Nami One Piece",
+      "total_img": 67
+    },
+    {
+      "id_nortag": "154658675",
+      "name_nortag": "Naruto Uzumaki",
+      "total_img": 292
+    },
+    {
+      "id_nortag": "-23468393",
+      "name_nortag": "Obito Uchiha",
+      "total_img": 59
+    },
+    {
+      "id_nortag": "-1611763306",
+      "name_nortag": "Sakura Haruno",
+      "total_img": 93
+    },
+    {
+      "id_nortag": "2079074963",
+      "name_nortag": "Sanji One Piece",
+      "total_img": 74
+    },
+    {
+      "id_nortag": "-285202530",
+      "name_nortag": "Sasuke Uchiha",
+      "total_img": 154
+    },
+    {
+      "id_nortag": "-386600639",
+      "name_nortag": "Shikamaru Nara",
+      "total_img": 23
+    },
+    {
+      "id_nortag": "570659319",
+      "name_nortag": "Tony Tony Chopper",
+      "total_img": 59
+    },
+    {
+      "id_nortag": "1575701767",
+      "name_nortag": "Tsunade Naruto",
+      "total_img": 6
     }
   ]
 }

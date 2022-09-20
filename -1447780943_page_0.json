@@ -4,10 +4,10 @@
   "name_nortag": "Wilhelm van Astrea",
   "total_img": 10,
   "total_page": 0,
-  "hc_lt_alb": "-217530072",
-  "hc_lt_data_img": "-2119648508",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "332562165",
+  "hc_lt_alb": "-960749504",
+  "hc_lt_data_img": "-650736743",
+  "hc_lt_nortag": "212599496",
+  "hc_lt_sptag": "1333878029",
   "lt_alb": [
     {
       "id_alb": "66988",
@@ -15,20 +15,173 @@
       "total_img": 8592
     },
     {
-      "id_alb": "1153680963",
-      "name_alb": "ReZERO Starting Life in Another World",
-      "total_img": 350
-    },
-    {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "1153680963",
+      "name_alb": "ReZERO Starting Life in Another World",
+      "total_img": 350
     }
   ],
   "lt_data_img": [
     {
+      "hc_lt_id_alb": "-1913290075",
+      "hc_lt_id_nortag": "295804893",
+      "hc_lt_id_sptag": "",
+      "id_img": "ReZEROStartingLifeinAnotherWorld_733070_crop2608_1092833432",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifu4YnhUdI+t+9GvL12+2egla+FyCTSe+I1TKTxuzFYdpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifu4YnhUdI+t+9GvL12+2egG42ycjQAInyM+IP8Q4EKZpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1153680963"
+      ],
+      "list_id_nortag": [
+        "-338105371",
+        "733707207",
+        "-1447780943",
+        "2073136384",
+        "968908469",
+        "-455625964",
+        "122580802",
+        "193905656",
+        "1589797954",
+        "-691900963",
+        "-1967869502",
+        "602472204",
+        "668215777",
+        "-751321737"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1913290075",
+      "hc_lt_id_nortag": "-414223278",
+      "hc_lt_id_sptag": "",
+      "id_img": "ReZEROStartingLifeinAnotherWorld_739418_crop2608_713482158",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXDuyQOWQdbBa+ZDVGQ/3pIenywe/00JP8jFL5MGgI2pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXDuyQOWQdbBa+ZDVGQ/3pBI5LDy+1TqH5LxbrPg76YZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1153680963"
+      ],
+      "list_id_nortag": [
+        "-338105371",
+        "733707207",
+        "-675137754",
+        "-1486273497",
+        "-1447780943",
+        "-1828710571",
+        "2073136384",
+        "968908469",
+        "-455625964",
+        "193905656",
+        "1589797954",
+        "382622787",
+        "-1776227080",
+        "-691900963",
+        "-1967869502",
+        "602472204",
+        "668215777",
+        "-751321737",
+        "-226427893"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1913290075",
+      "hc_lt_id_nortag": "-1848488185",
+      "hc_lt_id_sptag": "",
+      "id_img": "ReZEROStartingLifeinAnotherWorld_739141_crop2608_1716715899",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMo1Ls0ngVAoAb9rql+In75I/syXmn7Wt8U2wnWfno8pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMo1Ls0ngVAoAb9rql+In7JtUskuRoZfeDukOulBEmYZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1153680963"
+      ],
+      "list_id_nortag": [
+        "-338105371",
+        "733707207",
+        "-675137754",
+        "-1486273497",
+        "-1447780943",
+        "2078104854",
+        "968908469",
+        "-455625964",
+        "122580802",
+        "193905656",
+        "1589797954",
+        "382622787",
+        "-1776227080",
+        "-691900963",
+        "602472204",
+        "668215777",
+        "-751321737",
+        "-226427893"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1913290075",
+      "hc_lt_id_nortag": "-414223278",
+      "hc_lt_id_sptag": "",
+      "id_img": "ReZEROStartingLifeinAnotherWorld_739418_crop2608_242669303",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidER4Hx5TJym/ze20hheNCaxQ0On2ait9EIi28DzZSu9JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidER4Hx5TJym/ze20hheNCaTvTrlVeE3z54q00HzfUJ/JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1153680963"
+      ],
+      "list_id_nortag": [
+        "-338105371",
+        "733707207",
+        "-675137754",
+        "-1486273497",
+        "-1447780943",
+        "-1828710571",
+        "2073136384",
+        "968908469",
+        "-455625964",
+        "193905656",
+        "1589797954",
+        "382622787",
+        "-1776227080",
+        "-691900963",
+        "-1967869502",
+        "602472204",
+        "668215777",
+        "-751321737",
+        "-226427893"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1913290075",
+      "hc_lt_id_nortag": "-1848488185",
+      "hc_lt_id_sptag": "",
+      "id_img": "ReZEROStartingLifeinAnotherWorld_739141_crop2608_552126346",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieM7kVu1v0XfAUqvtGZnQlTjH9w6n4SfmMPVNqsNRTCTZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieM7kVu1v0XfAUqvtGZnQlT8YpD8Rm4oMmuVWp+SzUZ0JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1153680963"
+      ],
+      "list_id_nortag": [
+        "-338105371",
+        "733707207",
+        "-675137754",
+        "-1486273497",
+        "-1447780943",
+        "2078104854",
+        "968908469",
+        "-455625964",
+        "122580802",
+        "193905656",
+        "1589797954",
+        "382622787",
+        "-1776227080",
+        "-691900963",
+        "602472204",
+        "668215777",
+        "-751321737",
+        "-226427893"
+      ]
+    },
+    {
       "hc_lt_id_alb": "-315691218",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-36833651",
       "hc_lt_id_sptag": "",
       "id_img": "ReZEROStartingLifeinAnotherWorld_699769_crop2608_-1823842755",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidLjIlv9hWlCbP5/EwVA5HRCMkeXRaKjvzmZwapDja73JVy4706IhQgSYlgwrgVRHU=",
@@ -36,11 +189,106 @@
       "lt_id_alb": [
         "66988",
         "1153680963"
+      ],
+      "list_id_nortag": [
+        "-1447780943",
+        "1589797954"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1913290075",
+      "hc_lt_id_nortag": "-414223278",
+      "hc_lt_id_sptag": "",
+      "id_img": "ReZEROStartingLifeinAnotherWorld_739418_crop2608_-1532611548",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM20tejUc9MgS2/vqsRDFcwxF3X5zFfwexZvl8NnsHHpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM20tejUc9MgS2/vqsRDFcdi2cafbLZa+HxwmrUCxKc5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1153680963"
+      ],
+      "list_id_nortag": [
+        "-338105371",
+        "733707207",
+        "-675137754",
+        "-1486273497",
+        "-1447780943",
+        "-1828710571",
+        "2073136384",
+        "968908469",
+        "-455625964",
+        "193905656",
+        "1589797954",
+        "382622787",
+        "-1776227080",
+        "-691900963",
+        "-1967869502",
+        "602472204",
+        "668215777",
+        "-751321737",
+        "-226427893"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1913290075",
+      "hc_lt_id_nortag": "160697055",
+      "hc_lt_id_sptag": "",
+      "id_img": "ReZEROStartingLifeinAnotherWorld_699770_crop2608_-74439808",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeYHROCjhIOCt+jDRBBYhTy5XTfvETQCwq/fQyVM4CepVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeYHROCjhIOCt+jDRBBYhTVD5rBgn9jkTUkeI1SxlN4JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1153680963"
+      ],
+      "list_id_nortag": [
+        "-338105371",
+        "733707207",
+        "-675137754",
+        "-1447780943",
+        "968908469",
+        "-455625964",
+        "122580802",
+        "193905656",
+        "382622787",
+        "-1776227080",
+        "-691900963",
+        "-1967869502",
+        "602472204",
+        "668215777",
+        "-226427893"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1913290075",
+      "hc_lt_id_nortag": "-1848488185",
+      "hc_lt_id_sptag": "",
+      "id_img": "ReZEROStartingLifeinAnotherWorld_739141_crop2608_-497136649",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4Fmd7ffC4c0diiOgtPXDcH0x9SImoHgLa6QK93b6+6ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4Fmd7ffC4c0diiOgtPXDcqKbAXQuTqE8pWZtENxu1JZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1153680963"
+      ],
+      "list_id_nortag": [
+        "-338105371",
+        "733707207",
+        "-675137754",
+        "-1486273497",
+        "-1447780943",
+        "2078104854",
+        "968908469",
+        "-455625964",
+        "122580802",
+        "193905656",
+        "1589797954",
+        "382622787",
+        "-1776227080",
+        "-691900963",
+        "602472204",
+        "668215777",
+        "-751321737",
+        "-226427893"
       ]
     },
     {
       "hc_lt_id_alb": "1986678864",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-36833651",
       "hc_lt_id_sptag": "-320071795",
       "id_img": "ReZEROStartingLifeinAnotherWorld_699769_crop2608_1076117800",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4+E/RmYeno0lkdhGC1QUhdXghBPDeL3yl/IZOYNm4tJVy4706IhQgSYlgwrgVRHU=",
@@ -49,103 +297,132 @@
         "68811063",
         "1153680963"
       ],
+      "list_id_nortag": [
+        "-1447780943",
+        "1589797954"
+      ],
       "lt_id_sptag": [
         "-120608061",
         "-326078627",
         "1911583362",
         "635218351"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1486273497",
+      "name_nortag": "Aldebaran ReZERO",
+      "total_img": 7
     },
     {
-      "hc_lt_id_alb": "-1913290075",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ReZEROStartingLifeinAnotherWorld_699770_crop2608_-74439808",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeYHROCjhIOCt+jDRBBYhTy5XTfvETQCwq/fQyVM4CepVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeYHROCjhIOCt+jDRBBYhTVD5rBgn9jkTUkeI1SxlN4JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1153680963"
-      ]
+      "id_nortag": "-1967869502",
+      "name_nortag": "Anastasia Hoshin",
+      "total_img": 16
     },
     {
-      "hc_lt_id_alb": "-1913290075",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ReZEROStartingLifeinAnotherWorld_733070_crop2608_1092833432",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifu4YnhUdI+t+9GvL12+2egla+FyCTSe+I1TKTxuzFYdpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifu4YnhUdI+t+9GvL12+2egG42ycjQAInyM+IP8Q4EKZpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1153680963"
-      ]
+      "id_nortag": "602472204",
+      "name_nortag": "Beatrice ReZERO",
+      "total_img": 52
     },
     {
-      "hc_lt_id_alb": "-1913290075",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ReZEROStartingLifeinAnotherWorld_739141_crop2608_-497136649",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4Fmd7ffC4c0diiOgtPXDcH0x9SImoHgLa6QK93b6+6ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4Fmd7ffC4c0diiOgtPXDcqKbAXQuTqE8pWZtENxu1JZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1153680963"
-      ]
+      "id_nortag": "-1776227080",
+      "name_nortag": "Crusch Karsten",
+      "total_img": 14
     },
     {
-      "hc_lt_id_alb": "-1913290075",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ReZEROStartingLifeinAnotherWorld_739141_crop2608_1716715899",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMo1Ls0ngVAoAb9rql+In75I/syXmn7Wt8U2wnWfno8pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMo1Ls0ngVAoAb9rql+In7JtUskuRoZfeDukOulBEmYZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1153680963"
-      ]
+      "id_nortag": "382622787",
+      "name_nortag": "Elsa Granhiert",
+      "total_img": 8
     },
     {
-      "hc_lt_id_alb": "-1913290075",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ReZEROStartingLifeinAnotherWorld_739141_crop2608_552126346",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieM7kVu1v0XfAUqvtGZnQlTjH9w6n4SfmMPVNqsNRTCTZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieM7kVu1v0XfAUqvtGZnQlT8YpD8Rm4oMmuVWp+SzUZ0JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1153680963"
-      ]
+      "id_nortag": "193905656",
+      "name_nortag": "Emilia ReZERO",
+      "total_img": 93
     },
     {
-      "hc_lt_id_alb": "-1913290075",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ReZEROStartingLifeinAnotherWorld_739418_crop2608_-1532611548",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM20tejUc9MgS2/vqsRDFcwxF3X5zFfwexZvl8NnsHHpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM20tejUc9MgS2/vqsRDFcdi2cafbLZa+HxwmrUCxKc5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1153680963"
-      ]
+      "id_nortag": "2073136384",
+      "name_nortag": "Felix Argyle",
+      "total_img": 18
     },
     {
-      "hc_lt_id_alb": "-1913290075",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ReZEROStartingLifeinAnotherWorld_739418_crop2608_242669303",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidER4Hx5TJym/ze20hheNCaxQ0On2ait9EIi28DzZSu9JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidER4Hx5TJym/ze20hheNCaTvTrlVeE3z54q00HzfUJ/JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1153680963"
-      ]
+      "id_nortag": "-455625964",
+      "name_nortag": "Felt ReZERO",
+      "total_img": 11
     },
     {
-      "hc_lt_id_alb": "-1913290075",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "ReZEROStartingLifeinAnotherWorld_739418_crop2608_713482158",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXDuyQOWQdbBa+ZDVGQ/3pIenywe/00JP8jFL5MGgI2pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXDuyQOWQdbBa+ZDVGQ/3pBI5LDy+1TqH5LxbrPg76YZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1153680963"
-      ]
+      "id_nortag": "-1828710571",
+      "name_nortag": "Julius Juukulius",
+      "total_img": 15
+    },
+    {
+      "id_nortag": "2078104854",
+      "name_nortag": "Mimi Pearlbaton",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "122580802",
+      "name_nortag": "Pack ReZERO",
+      "total_img": 27
+    },
+    {
+      "id_nortag": "-751321737",
+      "name_nortag": "Petelgeuse RomaneeConti",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "733707207",
+      "name_nortag": "Priscilla Barielle",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "-691900963",
+      "name_nortag": "Ram ReZERO",
+      "total_img": 117
+    },
+    {
+      "id_nortag": "-675137754",
+      "name_nortag": "Reinhard van Astrea",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "668215777",
+      "name_nortag": "Rem ReZERO",
+      "total_img": 222
+    },
+    {
+      "id_nortag": "-226427893",
+      "name_nortag": "Rom ReZero",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "968908469",
+      "name_nortag": "Roswaal L Mathers",
+      "total_img": 15
+    },
+    {
+      "id_nortag": "-338105371",
+      "name_nortag": "Subaru Natsuki",
+      "total_img": 45
+    },
+    {
+      "id_nortag": "1589797954",
+      "name_nortag": "Theresia van Astrea",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "-1447780943",
+      "name_nortag": "Wilhelm van Astrea",
+      "total_img": 10
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
     {
       "id_sptag": "-120608061",
       "key_sptag": "isGirlHairOrangeAnime",
@@ -163,12 +440,6 @@
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
     }
   ]
 }

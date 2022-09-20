@@ -4,69 +4,49 @@
   "name_nortag": "Takao Azur Lane",
   "total_img": 6,
   "total_page": 0,
-  "hc_lt_alb": "103013157",
-  "hc_lt_data_img": "124808926",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1648344477",
+  "hc_lt_alb": "286598045",
+  "hc_lt_data_img": "-1152903530",
+  "hc_lt_nortag": "-1785917494",
+  "hc_lt_sptag": "-131251051",
   "lt_alb": [
-    {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
     {
       "id_alb": "408425270",
       "name_alb": "Azur Lane",
       "total_img": 185
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1854286778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "639912187",
-      "id_img": "AzurLane_899473_crop2608_-1622574265",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTyImPeoMDmSDmfMpjo5uFsflr5DRy4wY9SDfdz+MF9pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTyImPeoMDmSDmfMpjo5uF/i2Il7hHoSkzA7IRs2nRBJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "243926905",
+      "hc_lt_id_sptag": "-239216312",
+      "id_img": "AzurLane_941612_crop2608_1577392062",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicz5Ev2Anh0ourU7rRDbx8p4gPFLvZOMNBp2NtvkWy945Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicz5Ev2Anh0ourU7rRDbx8ptG8GM/pIEbXnXJtgeG/I+5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "68811063",
         "408425270"
       ],
-      "lt_id_sptag": [
-        "-154622774",
-        "-1782893951",
-        "-326078627",
-        "410439701",
-        "679383692",
-        "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "1854286778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1023332490",
-      "id_img": "AzurLane_899508_crop2608_1553617858",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaB0S3EOy74oPSXaHL2yaL2xwR8NmmgN+k9Lw6XmeFJJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaB0S3EOy74oPSXaHL2yaL82lQB+hJoCP4mAMs1gfVIZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "408425270"
+      "list_id_nortag": [
+        "-590652350"
       ],
       "lt_id_sptag": [
         "-154622774",
+        "936615491",
         "1211227273",
         "-326078627",
-        "-271320563",
-        "410439701",
-        "1439506876",
-        "-1783086774",
-        "679383692",
-        "1911583362"
+        "1911583362",
+        "-298695861"
       ]
     },
     {
       "hc_lt_id_alb": "1854286778",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "243926905",
       "hc_lt_id_sptag": "-802201626",
       "id_img": "AzurLane_927331_crop2608_-1855625310",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8WuJaKExAlIcWJSd/NGiYfBoP9+KwrKLf/atOZbT925Vy4706IhQgSYlgwrgVRHU=",
@@ -74,6 +54,9 @@
       "lt_id_alb": [
         "68811063",
         "408425270"
+      ],
+      "list_id_nortag": [
+        "-590652350"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -87,27 +70,33 @@
     },
     {
       "hc_lt_id_alb": "1854286778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-239216312",
-      "id_img": "AzurLane_941612_crop2608_1577392062",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicz5Ev2Anh0ourU7rRDbx8p4gPFLvZOMNBp2NtvkWy945Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicz5Ev2Anh0ourU7rRDbx8ptG8GM/pIEbXnXJtgeG/I+5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-1739385210",
+      "hc_lt_id_sptag": "639912187",
+      "id_img": "AzurLane_899473_crop2608_-1622574265",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTyImPeoMDmSDmfMpjo5uFsflr5DRy4wY9SDfdz+MF9pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTyImPeoMDmSDmfMpjo5uF/i2Il7hHoSkzA7IRs2nRBJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "68811063",
         "408425270"
       ],
+      "list_id_nortag": [
+        "-590652350",
+        "-1337523226",
+        "1675348047",
+        "-771485844"
+      ],
       "lt_id_sptag": [
         "-154622774",
-        "936615491",
-        "1211227273",
+        "-1782893951",
         "-326078627",
-        "1911583362",
-        "-298695861"
+        "410439701",
+        "679383692",
+        "1911583362"
       ]
     },
     {
       "hc_lt_id_alb": "1854286778",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "243926905",
       "hc_lt_id_sptag": "-1527161028",
       "id_img": "AzurLane_891312_crop2608_222356339",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicb5mQK4gNr5PljBvHdxyConCcmeCGbNNLDbEvewlx/gJVy4706IhQgSYlgwrgVRHU=",
@@ -115,6 +104,9 @@
       "lt_id_alb": [
         "68811063",
         "408425270"
+      ],
+      "list_id_nortag": [
+        "-590652350"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -126,7 +118,7 @@
     },
     {
       "hc_lt_id_alb": "1854286778",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1538241426",
       "hc_lt_id_sptag": "-1651823132",
       "id_img": "AzurLane_902606_crop2608_-1597625086",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifjzLscaEVO9XIFUOGlKbsstOZ/0adOaq86mBtNvRLte5Vy4706IhQgSYlgwrgVRHU=",
@@ -134,6 +126,10 @@
       "lt_id_alb": [
         "68811063",
         "408425270"
+      ],
+      "list_id_nortag": [
+        "-590652350",
+        "-771485844"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -144,26 +140,69 @@
         "1439812287",
         "1911583362"
       ]
+    },
+    {
+      "hc_lt_id_alb": "1854286778",
+      "hc_lt_id_nortag": "1538241426",
+      "hc_lt_id_sptag": "1023332490",
+      "id_img": "AzurLane_899508_crop2608_1553617858",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaB0S3EOy74oPSXaHL2yaL2xwR8NmmgN+k9Lw6XmeFJJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaB0S3EOy74oPSXaHL2yaL82lQB+hJoCP4mAMs1gfVIZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "408425270"
+      ],
+      "list_id_nortag": [
+        "-590652350",
+        "-771485844"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "1211227273",
+        "-326078627",
+        "-271320563",
+        "410439701",
+        "1439506876",
+        "-1783086774",
+        "679383692",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1675348047",
+      "name_nortag": "Akagi Azur Lane",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "-771485844",
+      "name_nortag": "Atago Azur Lane",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "-1337523226",
+      "name_nortag": "Kaga Azur Lane",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "-590652350",
+      "name_nortag": "Takao Azur Lane",
+      "total_img": 6
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
     },
     {
-      "id_sptag": "-1782893951",
-      "key_sptag": "isGirlEyesBrownAnime",
-      "name_sptag": "Girls Eyes Brown",
-      "total": 9376
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
+      "id_sptag": "-369654561",
+      "key_sptag": "isGirlDarkAnime",
+      "name_sptag": "Girls Dark",
+      "total": 3468
     },
     {
       "id_sptag": "410439701",
@@ -172,16 +211,22 @@
       "total": 7031
     },
     {
-      "id_sptag": "679383692",
-      "key_sptag": "isGirlKimonoAnime",
-      "name_sptag": "Girls Kimono Yukata Cheongsam",
-      "total": 7942
+      "id_sptag": "-1783086774",
+      "key_sptag": "isGirlEyesBlackAnime",
+      "name_sptag": "Girls Eyes Black",
+      "total": 5810
     },
     {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
+      "id_sptag": "-1782893951",
+      "key_sptag": "isGirlEyesBrownAnime",
+      "name_sptag": "Girls Eyes Brown",
+      "total": 9376
+    },
+    {
+      "id_sptag": "936615491",
+      "key_sptag": "isGirlEyesOrangeAnime",
+      "name_sptag": "Girls Eyes Orange",
+      "total": 3828
     },
     {
       "id_sptag": "1211227273",
@@ -196,34 +241,10 @@
       "total": 1618
     },
     {
-      "id_sptag": "1439506876",
-      "key_sptag": "isGirlScarfAnime",
-      "name_sptag": "Girls Scarf",
-      "total": 3306
-    },
-    {
-      "id_sptag": "-1783086774",
-      "key_sptag": "isGirlEyesBlackAnime",
-      "name_sptag": "Girls Eyes Black",
-      "total": 5810
-    },
-    {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
-    },
-    {
-      "id_sptag": "-369654561",
-      "key_sptag": "isGirlDarkAnime",
-      "name_sptag": "Girls Dark",
-      "total": 3468
-    },
-    {
-      "id_sptag": "-1436512555",
-      "key_sptag": "isDarkBlack",
-      "name_sptag": "Dark Black",
-      "total": 4051
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
     },
     {
       "id_sptag": "-143528947",
@@ -232,16 +253,40 @@
       "total": 13760
     },
     {
-      "id_sptag": "936615491",
-      "key_sptag": "isGirlEyesOrangeAnime",
-      "name_sptag": "Girls Eyes Orange",
-      "total": 3828
+      "id_sptag": "679383692",
+      "key_sptag": "isGirlKimonoAnime",
+      "name_sptag": "Girls Kimono Yukata Cheongsam",
+      "total": 7942
     },
     {
-      "id_sptag": "-298695861",
-      "key_sptag": "isGirlWeddingAnime",
-      "name_sptag": "Girls Wedding",
-      "total": 2328
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1439506876",
+      "key_sptag": "isGirlScarfAnime",
+      "name_sptag": "Girls Scarf",
+      "total": 3306
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     },
     {
       "id_sptag": "-1811357781",
@@ -250,10 +295,10 @@
       "total": 16929
     },
     {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
+      "id_sptag": "-298695861",
+      "key_sptag": "isGirlWeddingAnime",
+      "name_sptag": "Girls Wedding",
+      "total": 2328
     }
   ]
 }

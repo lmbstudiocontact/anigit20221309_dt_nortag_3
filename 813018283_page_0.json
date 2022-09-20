@@ -5,8 +5,8 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-1475392333",
-  "hc_lt_data_img": "-1476524072",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "-1618867655",
+  "hc_lt_nortag": "1388235487",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -18,14 +18,42 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1881992253",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-379963571",
       "hc_lt_id_sptag": "",
       "id_img": "PsychoPass_854649_crop2608_1566683504",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFgDsZ7I6Hqec6ofva0i38I0LQO74XozgmrN/OcnF/ZZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFgDsZ7I6Hqec6ofva0i38bNIjYRJqMXlK72tmBb8pKZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "937582693"
+      ],
+      "list_id_nortag": [
+        "1123025540",
+        "1830334068",
+        "297536120",
+        "813018283"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1830334068",
+      "name_nortag": "Akane Tsunemori",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "1123025540",
+      "name_nortag": "Nobuchika Ginoza",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "297536120",
+      "name_nortag": "Shinya Kogami",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "813018283",
+      "name_nortag": "Yayoi Kunizuka",
+      "total_img": 1
     }
   ]
 }

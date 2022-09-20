@@ -5,9 +5,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-1952772767",
-  "hc_lt_data_img": "-1818486788",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1356293103",
+  "hc_lt_data_img": "-1742057252",
+  "hc_lt_nortag": "-325016684",
+  "hc_lt_sptag": "1134516333",
   "lt_alb": [
     {
       "id_alb": "762456406",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "112002400",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-333323346",
       "hc_lt_id_sptag": "743257297",
       "id_img": "Claymore_738185_crop2608_-1731072379",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif9CRQcaJZkXdRUTHbPUEhtd2wFIthd7dfHuYULfKRYg5Vy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,9 @@
       "lt_id_alb": [
         "762456406",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "8306660"
       ],
       "lt_id_sptag": [
         "1043155746",
@@ -42,7 +45,7 @@
     },
     {
       "hc_lt_id_alb": "112002400",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-333323346",
       "hc_lt_id_sptag": "743257297",
       "id_img": "Claymore_751361_crop2608_-1311314922",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyazRN8PnfiC8u0nnWlkho0k56yFPm6s/sb362PvWTzJVy4706IhQgSYlgwrgVRHU=",
@@ -50,6 +53,9 @@
       "lt_id_alb": [
         "762456406",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "8306660"
       ],
       "lt_id_sptag": [
         "1043155746",
@@ -60,18 +66,25 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "8306660",
+      "name_nortag": "Teresa Claymore",
+      "total_img": 2
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "635372596",
+      "key_sptag": "isGirlEyesGreyAnime",
+      "name_sptag": "Girls Eyes Grey",
+      "total": 2483
+    },
     {
       "id_sptag": "1043155746",
       "key_sptag": "isGirlEyesSilvertAnime",
       "name_sptag": "Girls Eyes Silver",
       "total": 1109
-    },
-    {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
     },
     {
       "id_sptag": "154003721",
@@ -86,10 +99,10 @@
       "total": 47407
     },
     {
-      "id_sptag": "635372596",
-      "key_sptag": "isGirlEyesGreyAnime",
-      "name_sptag": "Girls Eyes Grey",
-      "total": 2483
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

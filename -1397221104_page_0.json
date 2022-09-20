@@ -5,9 +5,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-207226463",
-  "hc_lt_data_img": "-445136841",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "712844408",
+  "hc_lt_data_img": "1725191575",
+  "hc_lt_nortag": "-77599678",
+  "hc_lt_sptag": "-1030132118",
   "lt_alb": [
     {
       "id_alb": "66988",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1526695299",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1319621424",
       "hc_lt_id_sptag": "862791854",
       "id_img": "TheOnesWithin_1000734_crop2608_-8312707",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieX4tHsFO4pfhmhYlwGXpWIXUIYxDQ3Puk4PCMBcfdUK5Vy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,9 @@
         "66988",
         "-1736264753"
       ],
+      "list_id_nortag": [
+        "-1397221104"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
@@ -39,7 +42,7 @@
     },
     {
       "hc_lt_id_alb": "1526695299",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1319621424",
       "hc_lt_id_sptag": "862791854",
       "id_img": "TheOnesWithin_1000734_crop2608_1861551413",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2YOE8umVKz6bZ2j69acTT6MiQkyMxa1nKpwReOvoW/pVy4706IhQgSYlgwrgVRHU=",
@@ -48,24 +51,34 @@
         "66988",
         "-1736264753"
       ],
+      "list_id_nortag": [
+        "-1397221104"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
       ]
     }
   ],
-  "lt_sptag": [
+  "lt_nortag": [
     {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
-    },
+      "id_nortag": "-1397221104",
+      "name_nortag": "Zakuro Oshigiri",
+      "total_img": 2
+    }
+  ],
+  "lt_sptag": [
     {
       "id_sptag": "1736318786",
       "key_sptag": "isBoySad",
       "name_sptag": "Boy Sad",
       "total": 1551
+    },
+    {
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     }
   ]
 }
